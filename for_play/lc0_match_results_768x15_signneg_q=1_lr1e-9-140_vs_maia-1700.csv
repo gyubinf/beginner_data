@@ -1,0 +1,42 @@
+game_id,model_a_outcome,winner,result_score,white_agent,black_agent,moves
+1,Loss,maia-1700,0-1,768x15_20260605_lr1e-9-140,maia-1700,e2e3 g8f6 f1b5 c7c6 b5f1 d7d5 f1e2 c8f5 e2f1 e7e6 f1e2 f8d6 e2f1 b8d7 g1e2 d8c7 e2g1 e8c8 d2d4 h7h5 c1d2 d6h2 h1h2 c7h2 d1f3 h2g1 f3d5 e6d5 g2g4 h5g4 a2a3 h8h1 c2c3 g1f1
+2,Loss,maia-1700,1-0,maia-1700,768x15_20260605_lr1e-9-140,e2e4 g8f6 e4e5 f6g8 d2d4 g8f6 e5f6 e7f6 g1f3 d7d6 f1d3 c7c6 e1g1 b8d7 f1e1 d7e5 d4e5 d6e5 f3e5 f6e5 e1e5 c8e6 d1e2 d8d3 c2d3 h8g8 b1c3 c6c5 c1e3 f7f5 e5e6 e8d8 e3g5 d8d7 a1e1 a7a6 e6e7 d7c8 e2e6 c8b8 e6g8 a6a5 g8f8 b8a7 c3b5 a7a6 b5c7 a6a7 f8a8 a7b6 e1e6
+3,Loss,maia-1700,0-1,768x15_20260605_lr1e-9-140,maia-1700,e2e4 c7c5 g1f3 b8c6 f3g1 g8f6 f1b5 f6e4 b5c6 b7c6 g1e2 d7d5 e2g1 e7e5 g1e2 f8d6 e2g1 e8g8 g1e2 f7f5 e2g1 d8h4 g1e2 h4f2
+4,Loss,maia-1700,1-0,maia-1700,768x15_20260605_lr1e-9-140,e2e4 g8f6 e4e5 f6g8 d2d4 g8h6 c1h6 a7a6 h6e3 a6a5 f1d3 a5a4 a2a3 d7d6 g1f3 d6e5 f3e5 d8d4 e3d4 a8a7 d4a7 c7c5 a7b8 h7h5 d3b5 c8d7 d1d7
+5,Loss,maia-1700,0-1,768x15_20260605_lr1e-9-140,maia-1700,e2e3 g8f6 f1b5 c7c6 b5f1 d7d5 f1e2 c8f5 e2f1 e7e6 f1e2 f8d6 e2f1 b8d7 g1e2 d8c7 e2g1 e8c8 d2d4 h7h5 c1d2 d6h2 h1h2 c7h2 d1f3 h2g1 f3d5 f6d5 g2g4 h5g4 a2a3 h8h1 f2f3 g1f1
+6,Loss,maia-1700,1-0,maia-1700,768x15_20260605_lr1e-9-140,e2e4 g8f6 e4e5 f6g8 d2d4 g8f6 e5f6 e7f6 g1f3 d7d6 f1d3 c7c6 e1g1 b8d7 f1e1 d7e5 d4e5 d6e5 f3e5 f6e5 e1e5 c8e6 d1e2 d8d3 c2d3 h8g8 b1c3 c6c5 c1e3 f7f5 e5e6 e8d8 e3g5 d8d7 a1e1 a7a6 e6e7 d7c8 e2e6 c8b8 e6g8 a6a5 g8f8 b8a7 c3b5 a7a6 b5c7 a6a7 f8a8 a7b6 e1e6
+7,Loss,maia-1700,0-1,768x15_20260605_lr1e-9-140,maia-1700,e2e4 c7c5 g1f3 b8c6 f3g1 g8f6 f1b5 f6e4 b5c6 b7c6 g1e2 d7d5 e2g1 e7e5 g1e2 f8d6 e2g1 e8g8 g1e2 f7f5 e2g1 d8h4 g1e2 h4f2
+8,Loss,maia-1700,1-0,maia-1700,768x15_20260605_lr1e-9-140,e2e4 g8f6 e4e5 f6g8 d2d4 g8h6 c1h6 a7a6 h6e3 a6a5 f1d3 a5a4 a2a3 d7d6 g1f3 d6e5 f3e5 d8d4 e3d4 a8a7 d4a7 c7c5 a7b8 h7h5 d3b5 c8d7 d1d7
+9,Loss,maia-1700,0-1,768x15_20260605_lr1e-9-140,maia-1700,g1f3 d7d5 f3g1 e7e5 e2e3 g8f6 g1e2 f8d6 e2g1 e8g8 g1e2 c7c5 e2g1 b8c6 f1e2 c8e6 e2f1 d5d4 e3d4 e5d4 f1e2 f8e8 e2f1 e6g4 f1e2 g4e2 d2d3 e2d1 e1d2 d6f4 d2d1 f4c1 b1c3 c1b2 a1b1 b2c3 b1b7 e8e1
+10,Loss,maia-1700,1-0,maia-1700,768x15_20260605_lr1e-9-140,e2e4 g8f6 e4e5 f6g8 d2d4 g8h6 c1h6 h8g8 h6e3 a7a5 f1d3 a5a4 a2a3 h7h6 g1f3 c7c6 e1g1 g8h8 b1c3 h8h7 d3h7 d7d5 e5d6 e7d6 f1e1 h6h5 e3g5 e8d7 g5d8 b7b5 d8g5 h5h4 h7f5 d7c7 f5c8 h4h3 c8f5 d6d5 g5f4 f8d6 f4d6 c7d6 f5h3 g7g6 f3e5 b5b4 a3b4 a4a3 a1a3 c6c5 a3a8 f7f6 a8b8 f6e5 d4e5 d6e7 c3d5 e7f7 b8b7 f7g8 d5f6 g8h8 b7h7
+11,Loss,maia-1700,0-1,768x15_20260605_lr1e-9-140,maia-1700,g1f3 d7d5 f3g1 g8f6 g1f3 c8f5 f3g1 e7e6 g1f3 f8d6 f3g1 e8g8 g1f3 c7c5 f3g1 b8c6 g1f3 a8c8 f3g1 c6b4 d2d4 b4c2 d1c2 f5c2 e2e3 c5d4 g1e2 d4d3 e2g1 d6b4 b1d2 f6e4 f1d3 c2d3 g1e2 c8c2 e2g1 b4d2 c1d2 c2d2 a1b1 d3b1 a2a4 d8a5 h2h4 d2f2 b2b4 a5b4 e1d1 b4d2
+12,Loss,maia-1700,1-0,maia-1700,768x15_20260605_lr1e-9-140,e2e4 g8f6 e4e5 f6g8 d2d4 g8h6 c1h6 h8g8 h6e3 a7a5 g1f3 a5a4 f1d3 a4a3 b1a3 g8h8 e1g1 h8g8 d3h7 g8h8 h7e4 h8g8 c2c4 g8h8 d4d5 h8g8 a3b5 g8h8 d5d6 h8g8 b5c7 d8c7 d6c7 b8a6 e3b6 a6c7 b6c7 a8a3 b2a3 d7d5 c4d5 e7e6 d5e6 b7b5 e6f7 e8e7 f7g8q g7g6 c7d6 e7d7 d6f8 d7e8 e4g6
+13,Loss,maia-1700,0-1,768x15_20260605_lr1e-9-140,maia-1700,g1f3 d7d5 f3g1 e7e5 e2e3 g8f6 g1e2 f8d6 e2g1 e8g8 g1e2 c7c5 e2g1 b8c6 f1e2 c8e6 e2f1 d5d4 e3d4 e5d4 f1e2 f8e8 e2f1 e6g4 f1e2 g4e2 d2d3 e2d1 e1d2 d6f4 d2d1 f4c1 b1c3 c1b2 a1b1 b2c3 b1b7 e8e1
+14,Loss,maia-1700,1-0,maia-1700,768x15_20260605_lr1e-9-140,e2e4 g8f6 e4e5 f6g8 d2d4 g8h6 c1h6 h8g8 h6e3 a7a5 f1d3 a5a4 a2a3 h7h6 g1f3 c7c6 e1g1 g8h8 b1c3 h8h7 d3h7 d7d5 e5d6 e7d6 f1e1 h6h5 e3g5 e8d7 g5d8 b7b5 d8g5 h5h4 h7f5 d7c7 f5c8 h4h3 c8f5 d6d5 g5f4 f8d6 f4d6 c7d6 f5h3 g7g6 f3e5 b5b4 a3b4 a4a3 a1a3 c6c5 a3a8 f7f6 a8b8 f6e5 d4e5 d6e7 c3d5 e7f7 b8b7 f7g8 d5f6 g8h8 b7h7
+15,Loss,maia-1700,0-1,768x15_20260605_lr1e-9-140,maia-1700,g1f3 d7d5 f3g1 g8f6 g1f3 c8f5 f3g1 e7e6 g1f3 f8d6 f3g1 e8g8 g1f3 c7c5 f3g1 b8c6 g1f3 a8c8 f3g1 c6b4 d2d4 b4c2 d1c2 f5c2 e2e3 c5d4 g1e2 d4d3 e2g1 d6b4 b1d2 f6e4 f1d3 c2d3 g1e2 c8c2 e2g1 b4d2 c1d2 c2d2 a1b1 d3b1 a2a4 d8a5 h2h4 d2f2 b2b4 a5b4 e1d1 b4d2
+16,Loss,maia-1700,1-0,maia-1700,768x15_20260605_lr1e-9-140,e2e4 g8f6 e4e5 f6g8 d2d4 g8h6 c1h6 h8g8 h6e3 a7a5 g1f3 a5a4 f1d3 a4a3 b1a3 g8h8 e1g1 h8g8 d3h7 g8h8 h7e4 h8g8 c2c4 g8h8 d4d5 h8g8 a3b5 g8h8 d5d6 h8g8 b5c7 d8c7 d6c7 b8a6 e3b6 a6c7 b6c7 a8a3 b2a3 d7d5 c4d5 e7e6 d5e6 b7b5 e6f7 e8e7 f7g8q g7g6 d1d6 e7e8 g8f8
+17,Loss,maia-1700,0-1,768x15_20260605_lr1e-9-140,maia-1700,g1f3 d7d5 f3g1 g8f6 g1h3 c8h3 h1g1 h3f5 a2a3 e7e6 a3a4 f8d6 a4a5 e8g8 a5a6 b7b6 g1h1 c7c5 d2d4 b8c6 h1g1 c6d4 c2c3 d4c2 d1c2 f5c2 g1h1 c2b1 e2e3 b1c2 g2g4 c2e4 b2b4 e4h1 a1a5 b6a5 b4c5 d6c5 h2h4 f6g4 h4h5 d8h4 h5h6 h4f2 e1d1 h1f3 f1e2 f2e2
+18,Loss,maia-1700,1-0,maia-1700,768x15_20260605_lr1e-9-140,e2e4 g8f6 e4e5 f6g8 d2d4 g8h6 c1h6 h8g8 h6e3 a7a5 f1d3 a5a4 a2a3 h7h6 g1f3 d7d5 e1g1 g8h8 c2c4 c7c6 b1c3 d5c4 d3c4 h8g8 d4d5 c6d5 c3d5 d8d5 c4d5 e7e6 d5e4 e8e7 e3c5 e7e8 c5f8 e8f8 d1d8
+19,Loss,maia-1700,0-1,768x15_20260605_lr1e-9-140,maia-1700,g1f3 d7d5 f3g1 g8f6 g1h3 c8h3 h1g1 h3f5 a2a3 e7e6 h2h3 f8d6 h3h4 e8g8 a3a4 c7c5 a4a5 b8c6 h4h5 h7h6 a5a6 b7a6 c2c3 a6a5 g1h1 c5c4 h1g1 d8b6 e2e3 c6e5 d1g4 e5g4 e1e2 f5d3 e2d1 g4f2 d1e1 d6g3 b2b4 a5b4 c3b4 f2e4 e1d1 b6b4 a1a3 b4b1 a3a6 b1c2
+20,Loss,maia-1700,1-0,maia-1700,768x15_20260605_lr1e-9-140,e2e4 g8f6 e4e5 f6g8 d2d4 g8h6 c1h6 h8g8 h6e3 a7a5 f1d3 a5a4 a2a3 h7h6 g1f3 d7d5 e5d6 c7d6 e1g1 g8h8 b1c3 h8g8 d3b5 b8d7 b5a4 g8h8 a4b3 h8g8 f1e1 g8h8 c3d5 h8g8 e3f4 g8h8 f4d6 h8g8 d5c7 d8c7 d6c7 e7e6 d4d5 g7g5 d5e6 b7b5 e6d7
+21,Loss,maia-1700,0-1,768x15_20260605_lr1e-9-140,maia-1700,g1f3 d7d5 f3g1 g8f6 g1h3 c8h3 h1g1 h3f5 a2a3 e7e6 a3a4 f8d6 a4a5 e8g8 a5a6 b7b6 g1h1 c7c5 d2d4 b8c6 h1g1 c6d4 c2c3 d4c2 d1c2 f5c2 g1h1 c2b1 e2e3 b1c2 g2g4 c2e4 b2b4 e4h1 a1a5 b6a5 b4c5 d6c5 h2h4 f6g4 h4h5 d8h4 h5h6 h4f2 e1d1 h1f3 f1e2 f2e2
+22,Loss,maia-1700,1-0,maia-1700,768x15_20260605_lr1e-9-140,e2e4 g8f6 e4e5 f6g8 d2d4 g8h6 c1h6 h8g8 h6e3 a7a5 f1d3 a5a4 a2a3 h7h6 g1f3 d7d5 e1g1 g8h8 b1c3 h8g8 h2h3 g8h8 f3h2 h8g8 f2f4 g8h8 f4f5 h8g8 e5e6 f7e6 f5e6 c7c6 d3g6
+23,Loss,maia-1700,0-1,768x15_20260605_lr1e-9-140,maia-1700,g1f3 d7d5 f3g1 g8f6 g1h3 c8h3 h1g1 h3f5 a2a3 e7e6 h2h3 f8d6 h3h4 b8d7 a3a4 e8g8 a4a5 c7c6 h4h5 h7h6 a5a6 b7b6 c2c4 d5c4 g1h1 b6b5 h1h4 d7c5 f2f4 f6e4 g2g4 d8h4
+24,Loss,maia-1700,1-0,maia-1700,768x15_20260605_lr1e-9-140,e2e4 g8f6 e4e5 f6g8 d2d4 g8h6 c1h6 h8g8 h6e3 a7a5 f1d3 a5a4 a2a3 h7h6 g1f3 d7d5 e5d6 d8d6 b1c3 d6d4 e3d4 g8h8 e1g1 h8g8 f1e1 g8h8 c3d5 h8g8 d5c7 e8d7 c7a8 e7e5 f3e5 d7e8 e5c6 e8d7 c6b8 d7d6 d4e5 d6e7 e5c7 c8e6 a8b6 g8h8 b6d5 e7e8 d3b5
+25,Loss,maia-1700,0-1,768x15_20260605_lr1e-9-140,maia-1700,g1f3 d7d5 f3g1 g8f6 g1h3 c8h3 h1g1 h3f5 a2a3 e7e6 h2h3 f8d6 a3a4 e8g8 a4a5 c7c5 a5a6 b8a6 c2c3 a6c7 g1h1 a7a6 h1g1 b7b5 f2f4 d6f4 c3c4 f4g3
+26,Loss,maia-1700,1-0,maia-1700,768x15_20260605_lr1e-9-140,e2e4 g8f6 e4e5 f6g8 d2d4 g8h6 c1h6 h8g8 h6e3 a7a5 f1d3 a5a4 a2a3 h7h6 b1c3 c7c5 d4c5 f7f6 d3g6
+27,Loss,maia-1700,0-1,768x15_20260605_lr1e-9-140,maia-1700,g1f3 d7d5 f3g1 e7e5 e2e3 g8f6 g1e2 f8d6 e2g1 e8g8 g1e2 c7c5 e2g1 b8c6 g1e2 c8g4 e2g1 g4d1 g1e2 d1e2 f1e2 d5d4 e2f1 c6b4 e3d4 b4c2 e1e2 c2a1 h1g1 e5d4 f2f4 f8e8 e2d1 d6f4 b2b4 c5b4 g2g4 d4d3 f1d3 d8d3 a2a4 d3c2
+28,Loss,maia-1700,1-0,maia-1700,768x15_20260605_lr1e-9-140,e2e4 g8f6 e4e5 f6g8 d2d4 g8h6 c1h6 h8g8 h6e3 a7a5 f1d3 a5a4 a2a3 h7h6 b1c3 e7e6 g1f3 c7c6 e1g1 b7b6 c3e4 b6b5 c2c4 b5c4 d3c4 g8h8 e4d6 f8d6 e5d6 h8g8 f3e5 g8f8 d1g4 g7g6 e3h6 f7f6 g4g6 f8f7 g6f7
+29,Loss,maia-1700,0-1,768x15_20260605_lr1e-9-140,maia-1700,g1f3 d7d5 f3g1 g8f6 g1h3 c8h3 h1g1 h3f5 a2a3 e7e6 h2h3 f8d6 a3a4 e8g8 h3h4 c7c5 g2g3 b8c6 a4a5 c6a5 h4h5 h7h6 g1h1 a5c6 h1g1 c6b4 g1h1 b4c2 d1c2 f5c2 f1h3 c2b1 d2d3 b1c2 d3d4 c5d4 e2e3 d4e3 b2b4 e3f2 e1f2 d8b6 f2e1 d6b4 c1d2 b4d2 e1d2 c2e4 g3g4 e4h1 g4g5 f6e4 d2c1 a8c8 c1d1 h1f3 d1e1 b6f2
+30,Loss,maia-1700,1-0,maia-1700,768x15_20260605_lr1e-9-140,e2e4 g8f6 e4e5 f6g8 d2d4 g8h6 c1h6 h8g8 h6e3 a7a5 f1d3 a5a4 a2a3 h7h6 b1c3 c7c5 d4c5 f7f6 d3g6
+
+=== Summary Statistics ===
+Total Games,30
+Model A Wins,0
+Model A Losses,30
+Draws,0
+Win Rate A,0.00%
+Win Rate B,100.00%
+Draw Rate,0.00%
+Score Rate A,0.00%
+Elo Diff,-1199.83

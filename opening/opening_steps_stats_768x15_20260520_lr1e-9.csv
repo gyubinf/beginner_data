@@ -1,0 +1,837 @@
+step,opening,n_moves,mean_lc0_prob,var_lc0_prob,mean_human_prob,var_human_prob,nll
+0,Bishop's Opening,35,0.269596,0.135647,0.352661,0.054265,9.446697
+0,Bishop's Opening: Berlin Defense,28,0.35092,0.111884,0.308934,0.012975,6.50675
+0,Bogo-Indian Defense: Exchange Variation,18,0.300449,0.048671,0.347724,0.024347,3.166334
+0,Bogo-Indian Defense: Nimzowitsch Variation,18,0.272054,0.075229,0.301482,0.012573,6.86478
+0,Catalan Opening: Closed,24,0.427156,0.058052,0.379432,0.059839,1.724839
+0,Grünfeld Defense,10,0.362222,0.150227,0.346147,0.059713,7.801263
+0,Grünfeld Defense: Exchange Variation,10,0.462222,0.119783,0.436404,0.082957,4.259839
+0,Grünfeld Defense: Three Knights Variation,30,0.330627,0.163903,0.330739,0.060153,8.973042
+0,"Grünfeld Defense: Three Knights Variation, Petrosian System",21,0.297721,0.151761,0.377614,0.068151,9.972238
+0,Indian Defense: Anti-Nimzo-Indian,22,0.365805,0.071619,0.274575,0.03745,2.743893
+0,Indian Defense: London System,35,0.329524,0.112527,0.350224,0.05641,6.441363
+0,Italian Game: Classical Variation,18,0.432323,0.168665,0.364866,0.031454,4.843914
+0,"Italian Game: Classical Variation, Albin Gambit",16,0.436364,0.129601,0.380332,0.028566,3.210671
+0,"Italian Game: Classical Variation, Center Attack",16,0.509091,0.144973,0.428088,0.023157,1.057326
+0,"Italian Game: Classical Variation, Giuoco Pianissimo",35,0.45225,0.136436,0.346306,0.017855,3.458002
+0,"Italian Game: Giuoco Pianissimo, Normal",27,0.467469,0.108817,0.349352,0.016064,3.404415
+0,Italian Game: Giuoco Piano,22,0.443681,0.090503,0.369313,0.020547,1.810428
+0,"Italian Game: Two Knights Defense, Knight Attack, Normal Variation",25,0.499556,0.165792,0.444001,0.080385,4.917493
+0,"Italian Game: Two Knights Defense, Modern Bishop's Opening",31,0.270079,0.07242,0.299176,0.015923,6.193166
+0,"Italian Game: Two Knights Defense, Traxler Counterattack, Bishop Sacrifice Line",22,0.403857,0.123175,0.323835,0.020155,5.618748
+0,"Italian Game: Two Knights Defense, Traxler Counterattack, Knight Sacrifice Line",22,0.322406,0.100879,0.372124,0.029836,5.807072
+0,King's Indian Defense,10,0.222222,0.116049,0.405792,0.040393,11.39377
+0,King's Indian Defense: Fianchetto Variation,22,0.314904,0.107917,0.441064,0.108347,6.552665
+0,"King's Indian Defense: Fianchetto Variation, Delayed Fianchetto",16,0.30269,0.120467,0.291299,0.054513,8.515837
+0,King's Indian Defense: Four Pawns Attack,9,0.296296,0.11797,0.459675,0.05215,8.656364
+0,King's Indian Defense: Normal Variation,10,0.327778,0.113858,0.400227,0.041976,7.837728
+0,"King's Indian Defense: Normal Variation, King's Knight Variation",18,0.331909,0.159157,0.414267,0.048594,8.609215
+0,"King's Indian Defense: Normal Variation, Rare Defenses",24,0.3362,0.132502,0.43958,0.049356,8.099896
+0,King's Indian Defense: Smyslov Variation,21,0.189255,0.09979,0.407008,0.054143,11.765204
+0,London System,29,0.357088,0.152778,0.341028,0.051066,8.03265
+0,"London System, with Bd3",13,0.273504,0.11133,0.399965,0.07114,8.983978
+0,"London System, with Be2",13,0.335043,0.098497,0.383035,0.07741,6.290994
+0,Neo-Grünfeld Defense: with Nf3,24,0.323006,0.178933,0.320509,0.051207,10.231883
+0,Nimzo-Indian Defense,21,0.286887,0.062602,0.272688,0.013207,6.022074
+0,Nimzo-Indian Defense: Classical Variation,10,0.306301,0.056538,0.336314,0.019322,4.584643
+0,"Nimzo-Indian Defense: Classical Variation, Berlin Variation",10,0.361857,0.079912,0.339277,0.020024,2.892983
+0,Nimzo-Indian Defense: Three Knights Variation,30,0.333414,0.115101,0.326212,0.067083,7.274764
+0,Petrov's Defense: Italian Variation,20,0.416111,0.162957,0.314097,0.012347,5.315214
+0,Philidor Defense,51,0.325173,0.156005,0.3688,0.063277,9.372501
+0,Philidor Defense: Exchange Variation,20,0.442696,0.167815,0.372259,0.040539,6.826924
+0,Queen's Gambit Accepted,33,0.352548,0.143719,0.340622,0.036558,8.182815
+0,Queen's Gambit Accepted: Old Variation,34,0.377925,0.133232,0.377624,0.054529,6.948528
+0,Queen's Gambit Declined,38,0.345279,0.096095,0.336386,0.029532,5.956553
+0,Queen's Gambit Declined: Harrwitz Attack,34,0.393935,0.057365,0.334187,0.015322,1.613568
+0,Queen's Gambit Declined: Modern Variation,19,0.268507,0.056478,0.329033,0.019593,5.695751
+0,Queen's Gambit Declined: Ragozin Defense,39,0.365795,0.068642,0.329671,0.017334,3.668746
+0,Queen's Gambit Declined: Three Knights Variation,34,0.292331,0.056763,0.359526,0.014769,4.267983
+0,"Queen's Gambit Declined: Three Knights, Vienna Variation",9,0.25477,0.110233,0.303791,0.005946,10.546576
+0,"Queen's Gambit Declined: Vienna Variation, Quiet Variation",14,0.407605,0.059023,0.263161,0.008344,2.214764
+0,Queen's Pawn Game: Accelerated London System,98,0.284976,0.105524,0.320097,0.018738,7.918516
+0,Queen's Pawn Game: London System,35,0.306692,0.092893,0.323223,0.028665,6.941769
+0,"Ruy Lopez: Berlin Defense, Improved Steinitz Defense",10,0.377778,0.138148,0.373112,0.028875,6.174836
+0,Ruy Lopez: Exchange Variation,9,0.522222,0.16513,0.467343,0.036089,4.621387
+0,"Ruy Lopez: Exchange Variation, Lutikov Variation",10,0.381111,0.150051,0.401795,0.027337,6.221039
+0,"Ruy Lopez: Exchange Variation, Normal Variation",9,0.559259,0.137421,0.473418,0.034082,2.696713
+0,Ruy Lopez: Morphy Defense,9,0.695062,0.10014,0.497945,0.022661,0.593212
+0,"Ruy Lopez: Morphy Defense, Anderssen Variation",9,0.67037,0.111907,0.453968,0.026772,0.649971
+0,"Ruy Lopez: Morphy Defense, Caro Variation",10,0.57,0.169162,0.460445,0.07087,4.159249
+0,Ruy Lopez: Steinitz Defense,17,0.370172,0.164481,0.371974,0.05218,8.015315
+0,Semi-Slav Defense,14,0.415362,0.123783,0.367238,0.0222,5.73398
+0,Semi-Slav Defense: Accelerated Move Order,17,0.387038,0.140705,0.33232,0.02061,6.049065
+0,Semi-Slav Defense: Main Line,17,0.417316,0.118817,0.323265,0.020431,5.861228
+0,Sicilian Defense,10,0.412222,0.129073,0.479263,0.074454,4.452368
+0,Sicilian Defense: Chekhover Variation,13,0.302564,0.088797,0.409734,0.052242,6.406693
+0,Sicilian Defense: Closed,66,0.360426,0.155498,0.361892,0.055075,7.958475
+0,"Sicilian Defense: Closed, Traditional",34,0.335175,0.18219,0.3396,0.063751,10.024751
+0,Sicilian Defense: Franco-Sicilian Variation,20,0.3208,0.162912,0.384879,0.075675,9.577683
+0,Sicilian Defense: Grand Prix Attack,35,0.357879,0.150109,0.377194,0.063665,7.835601
+0,Sicilian Defense: Löwenthal Variation,10,0.464444,0.182983,0.501852,0.056042,6.041863
+0,Sicilian Defense: Modern Variations,35,0.29798,0.11428,0.311342,0.025573,8.404961
+0,"Sicilian Defense: Modern Variations, Anti-Qxd4 Move Order",17,0.458824,0.204223,0.38408,0.073125,7.853739
+0,"Sicilian Defense: Modern Variations, Anti-Qxd4 Move Order Accepted",10,0.47,0.165162,0.391511,0.061378,5.993621
+0,"Sicilian Defense: Modern Variations, Main Line",10,0.53,0.153162,0.567433,0.085864,4.21723
+0,Sicilian Defense: Old Sicilian,35,0.349582,0.13674,0.32401,0.04858,7.360928
+0,Sicilian Defense: Open,17,0.453875,0.179149,0.45994,0.088346,5.96489
+0,Sicilian Defense: Taimanov Variation,9,0.541526,0.17925,0.45596,0.071935,4.610339
+100,Bishop's Opening,35,0.036736,0.000772,0.352661,0.054265,3.814554
+100,Bishop's Opening: Berlin Defense,28,0.030134,0.000123,0.308934,0.012975,4.521477
+100,Bogo-Indian Defense: Exchange Variation,18,0.151323,0.072666,0.347724,0.024347,2.756542
+100,Bogo-Indian Defense: Nimzowitsch Variation,18,0.056508,0.002604,0.301482,0.012573,3.08223
+100,Catalan Opening: Closed,24,0.035743,4.2e-05,0.379432,0.059839,3.34585
+100,Grünfeld Defense,10,0.037911,5.8e-05,0.346147,0.059713,3.292034
+100,Grünfeld Defense: Exchange Variation,10,0.038113,5.6e-05,0.436404,0.082957,3.285684
+100,Grünfeld Defense: Three Knights Variation,30,0.034641,3.9e-05,0.330739,0.060153,3.377142
+100,"Grünfeld Defense: Three Knights Variation, Petrosian System",21,0.036476,4.3e-05,0.377614,0.068151,3.326387
+100,Indian Defense: Anti-Nimzo-Indian,22,0.089905,0.02218,0.274575,0.03745,2.988687
+100,Indian Defense: London System,35,0.030446,6.6e-05,0.350224,0.05641,3.90749
+100,Italian Game: Classical Variation,18,0.034962,4.2e-05,0.364866,0.031454,3.36882
+100,"Italian Game: Classical Variation, Albin Gambit",16,0.032447,0.000104,0.380332,0.028566,4.316807
+100,"Italian Game: Classical Variation, Center Attack",16,0.035655,4.3e-05,0.428088,0.023157,3.349127
+100,"Italian Game: Classical Variation, Giuoco Pianissimo",35,0.032513,6.1e-05,0.346306,0.017855,3.838309
+100,"Italian Game: Giuoco Pianissimo, Normal",27,0.032151,6.9e-05,0.349352,0.016064,3.967569
+100,Italian Game: Giuoco Piano,22,0.032436,0.000178,0.369313,0.020547,4.72658
+100,"Italian Game: Two Knights Defense, Knight Attack, Normal Variation",25,0.032806,3.2e-05,0.444001,0.080385,3.430147
+100,"Italian Game: Two Knights Defense, Modern Bishop's Opening",31,0.032247,3.2e-05,0.299176,0.015923,3.448116
+100,"Italian Game: Two Knights Defense, Traxler Counterattack, Bishop Sacrifice Line",22,0.033497,3.2e-05,0.323835,0.020155,3.409133
+100,"Italian Game: Two Knights Defense, Traxler Counterattack, Knight Sacrifice Line",22,0.033497,3.2e-05,0.372124,0.029836,3.409133
+100,King's Indian Defense,10,0.038191,6.1e-05,0.405792,0.040393,3.286116
+100,King's Indian Defense: Fianchetto Variation,22,0.036744,3.9e-05,0.441064,0.108347,3.317532
+100,"King's Indian Defense: Fianchetto Variation, Delayed Fianchetto",16,0.038139,4.1e-05,0.291299,0.054513,3.280218
+100,King's Indian Defense: Four Pawns Attack,9,0.035927,0.000205,0.459675,0.05215,4.912098
+100,King's Indian Defense: Normal Variation,10,0.037334,7.7e-05,0.400227,0.041976,3.316596
+100,"King's Indian Defense: Normal Variation, King's Knight Variation",18,0.037461,4.1e-05,0.414267,0.048594,3.298528
+100,"King's Indian Defense: Normal Variation, Rare Defenses",24,0.035531,9.2e-05,0.43958,0.049356,3.937938
+100,King's Indian Defense: Smyslov Variation,21,0.037246,4.1e-05,0.407008,0.054143,3.304568
+100,London System,29,0.030451,0.00015,0.341028,0.051066,4.955188
+100,"London System, with Bd3",13,0.037482,5.7e-05,0.399965,0.07114,3.304065
+100,"London System, with Be2",13,0.037482,5.7e-05,0.383035,0.07741,3.304065
+100,Neo-Grünfeld Defense: with Nf3,24,0.035673,3.6e-05,0.320509,0.051207,3.345958
+100,Nimzo-Indian Defense,21,0.052058,0.002334,0.272688,0.013207,3.158979
+100,Nimzo-Indian Defense: Classical Variation,10,0.031303,0.000286,0.336314,0.019322,6.289773
+100,"Nimzo-Indian Defense: Classical Variation, Berlin Variation",10,0.037553,5.1e-05,0.339277,0.020024,3.298784
+100,Nimzo-Indian Defense: Three Knights Variation,30,0.059794,0.004247,0.326212,0.067083,3.128016
+100,Petrov's Defense: Italian Variation,20,0.03304,6.6e-05,0.314097,0.012347,3.436503
+100,Philidor Defense,51,0.030339,6.6e-05,0.3688,0.063277,4.054974
+100,Philidor Defense: Exchange Variation,20,0.029199,0.000104,0.372259,0.040539,4.257782
+100,Queen's Gambit Accepted,33,0.030784,6.2e-05,0.340622,0.036558,3.917636
+100,Queen's Gambit Accepted: Old Variation,34,0.031414,3e-05,0.377624,0.054529,3.473095
+100,Queen's Gambit Declined,38,0.050063,0.00711,0.336386,0.029532,3.285883
+100,Queen's Gambit Declined: Harrwitz Attack,34,0.034464,3.5e-05,0.334187,0.015322,3.380431
+100,Queen's Gambit Declined: Modern Variation,19,0.03579,4.7e-05,0.329033,0.019593,3.346071
+100,Queen's Gambit Declined: Ragozin Defense,39,0.035035,2.7e-05,0.329671,0.017334,3.360861
+100,Queen's Gambit Declined: Three Knights Variation,34,0.034464,3.5e-05,0.359526,0.014769,3.380431
+100,"Queen's Gambit Declined: Three Knights, Vienna Variation",9,0.037002,5.1e-05,0.303791,0.005946,3.313445
+100,"Queen's Gambit Declined: Vienna Variation, Quiet Variation",14,0.034548,4.6e-05,0.263161,0.008344,3.381977
+100,Queen's Pawn Game: Accelerated London System,98,0.028869,5.4e-05,0.320097,0.018738,4.121292
+100,Queen's Pawn Game: London System,35,0.031363,2.9e-05,0.323223,0.028665,3.474593
+100,"Ruy Lopez: Berlin Defense, Improved Steinitz Defense",10,0.037174,3.6e-05,0.373112,0.028875,3.303831
+100,Ruy Lopez: Exchange Variation,9,0.042335,0.000187,0.467343,0.036089,3.203589
+100,"Ruy Lopez: Exchange Variation, Lutikov Variation",10,0.041948,0.00017,0.401795,0.027337,3.20904
+100,"Ruy Lopez: Exchange Variation, Normal Variation",9,0.038062,3.8e-05,0.473418,0.034082,3.280606
+100,Ruy Lopez: Morphy Defense,9,0.037113,4.3e-05,0.497945,0.022661,3.307718
+100,"Ruy Lopez: Morphy Defense, Anderssen Variation",9,0.037113,4.3e-05,0.453968,0.026772,3.307718
+100,"Ruy Lopez: Morphy Defense, Caro Variation",10,0.037523,3.8e-05,0.460445,0.07087,3.295345
+100,Ruy Lopez: Steinitz Defense,17,0.086783,0.041008,0.371974,0.05218,3.139232
+100,Semi-Slav Defense,14,0.03368,5e-05,0.367238,0.0222,3.409265
+100,Semi-Slav Defense: Accelerated Move Order,17,0.033521,4.2e-05,0.33232,0.02061,3.41121
+100,Semi-Slav Defense: Main Line,17,0.033153,4.3e-05,0.323265,0.020431,3.422635
+100,Sicilian Defense,10,0.035138,7.8e-05,0.479263,0.074454,3.379899
+100,Sicilian Defense: Chekhover Variation,13,0.032363,9.7e-05,0.409734,0.052242,3.47823
+100,Sicilian Defense: Closed,66,0.033286,9.7e-05,0.361892,0.055075,3.640053
+100,"Sicilian Defense: Closed, Traditional",34,0.031963,0.000142,0.3396,0.063751,4.291313
+100,Sicilian Defense: Franco-Sicilian Variation,20,0.031513,0.000103,0.384879,0.075675,4.178075
+100,Sicilian Defense: Grand Prix Attack,35,0.035332,8.6e-05,0.377194,0.063665,3.368518
+100,Sicilian Defense: Löwenthal Variation,10,0.03589,7.5e-05,0.501852,0.056042,3.357261
+100,Sicilian Defense: Modern Variations,35,0.031959,6.7e-05,0.311342,0.025573,3.858755
+100,"Sicilian Defense: Modern Variations, Anti-Qxd4 Move Order",17,0.031966,5.8e-05,0.38408,0.073125,3.46789
+100,"Sicilian Defense: Modern Variations, Anti-Qxd4 Move Order Accepted",10,0.035181,7.1e-05,0.391511,0.061378,3.374922
+100,"Sicilian Defense: Modern Variations, Main Line",10,0.035138,7.8e-05,0.567433,0.085864,3.379899
+100,Sicilian Defense: Old Sicilian,35,0.030345,0.000115,0.32401,0.04858,4.704179
+100,Sicilian Defense: Open,17,0.036095,0.000152,0.45994,0.088346,3.370117
+100,Sicilian Defense: Taimanov Variation,9,0.036929,6.3e-05,0.45596,0.071935,3.321657
+200,Bishop's Opening,35,0.030762,0.000148,0.352661,0.054265,4.310224
+200,Bishop's Opening: Berlin Defense,28,0.027772,0.000175,0.308934,0.012975,5.591416
+200,Bogo-Indian Defense: Exchange Variation,18,0.144363,0.072025,0.347724,0.024347,2.772908
+200,Bogo-Indian Defense: Nimzowitsch Variation,18,0.047208,0.00054,0.301482,0.012573,3.132568
+200,Catalan Opening: Closed,24,0.035406,4e-05,0.379432,0.059839,3.354918
+200,Grünfeld Defense,10,0.03786,4.6e-05,0.346147,0.059713,3.288999
+200,Grünfeld Defense: Exchange Variation,10,0.03786,4.6e-05,0.436404,0.082957,3.288999
+200,Grünfeld Defense: Three Knights Variation,30,0.034326,3.6e-05,0.330739,0.060153,3.38558
+200,"Grünfeld Defense: Three Knights Variation, Petrosian System",21,0.036025,4.1e-05,0.377614,0.068151,3.338442
+200,Indian Defense: Anti-Nimzo-Indian,22,0.077796,0.013378,0.274575,0.03745,3.015369
+200,Indian Defense: London System,35,0.031142,3.7e-05,0.350224,0.05641,3.485905
+200,Italian Game: Classical Variation,18,0.028309,0.000188,0.364866,0.031454,5.899069
+200,"Italian Game: Classical Variation, Albin Gambit",16,0.032121,9.9e-05,0.380332,0.028566,4.325584
+200,"Italian Game: Classical Variation, Center Attack",16,0.031847,9.9e-05,0.428088,0.023157,4.333868
+200,"Italian Game: Classical Variation, Giuoco Pianissimo",35,0.030784,0.000121,0.346306,0.017855,4.692161
+200,"Italian Game: Giuoco Pianissimo, Normal",27,0.032028,0.00012,0.349352,0.016064,4.494019
+200,Italian Game: Giuoco Piano,22,0.031946,7.4e-05,0.369313,0.020547,4.090053
+200,"Italian Game: Two Knights Defense, Knight Attack, Normal Variation",25,0.033898,4.1e-05,0.444001,0.080385,3.400796
+200,"Italian Game: Two Knights Defense, Modern Bishop's Opening",31,0.028745,0.000194,0.299176,0.015923,5.814133
+200,"Italian Game: Two Knights Defense, Traxler Counterattack, Bishop Sacrifice Line",22,0.035608,4.3e-05,0.323835,0.020155,3.350937
+200,"Italian Game: Two Knights Defense, Traxler Counterattack, Knight Sacrifice Line",22,0.037674,0.000173,0.372124,0.029836,3.31943
+200,King's Indian Defense,10,0.037649,5.5e-05,0.405792,0.040393,3.29876
+200,King's Indian Defense: Fianchetto Variation,22,0.036216,3.6e-05,0.441064,0.108347,3.331292
+200,"King's Indian Defense: Fianchetto Variation, Delayed Fianchetto",16,0.037591,3.9e-05,0.291299,0.054513,3.294421
+200,King's Indian Defense: Four Pawns Attack,9,0.038102,6e-05,0.459675,0.05215,3.28928
+200,King's Indian Defense: Normal Variation,10,0.031792,0.000288,0.400227,0.041976,6.2756
+200,"King's Indian Defense: Normal Variation, King's Knight Variation",18,0.037132,3.9e-05,0.414267,0.048594,3.306959
+200,"King's Indian Defense: Normal Variation, Rare Defenses",24,0.036004,4.2e-05,0.43958,0.049356,3.340046
+200,King's Indian Defense: Smyslov Variation,21,0.03675,4e-05,0.407008,0.054143,3.318089
+200,London System,29,0.030942,0.000113,0.341028,0.051066,4.457189
+200,"London System, with Bd3",13,0.036346,5.7e-05,0.399965,0.07114,3.335885
+200,"London System, with Be2",13,0.036346,5.7e-05,0.383035,0.07741,3.335885
+200,Neo-Grünfeld Defense: with Nf3,24,0.035589,3.2e-05,0.320509,0.051207,3.347072
+200,Nimzo-Indian Defense,21,0.043374,0.000511,0.272688,0.013207,3.220453
+200,Nimzo-Indian Defense: Classical Variation,10,0.028166,0.000367,0.336314,0.019322,7.783433
+200,"Nimzo-Indian Defense: Classical Variation, Berlin Variation",10,0.034227,0.000173,0.339277,0.020024,4.798598
+200,Nimzo-Indian Defense: Three Knights Variation,30,0.053715,0.00308,0.326212,0.067083,3.171049
+200,Petrov's Defense: Italian Variation,20,0.037503,0.000255,0.314097,0.012347,3.350937
+200,Philidor Defense,51,0.030345,0.000115,0.3688,0.063277,4.605742
+200,Philidor Defense: Exchange Variation,20,0.029198,6e-05,0.372259,0.040539,3.565465
+200,Queen's Gambit Accepted,33,0.030728,5.8e-05,0.340622,0.036558,3.918003
+200,Queen's Gambit Accepted: Old Variation,34,0.030745,5.5e-05,0.377624,0.054529,3.903782
+200,Queen's Gambit Declined,38,0.042195,0.001506,0.336386,0.029532,3.322866
+200,Queen's Gambit Declined: Harrwitz Attack,34,0.035908,7.1e-05,0.334187,0.015322,3.349501
+200,Queen's Gambit Declined: Modern Variation,19,0.035768,4.3e-05,0.329033,0.019593,3.345349
+200,Queen's Gambit Declined: Ragozin Defense,39,0.034776,2.6e-05,0.329671,0.017334,3.368069
+200,Queen's Gambit Declined: Three Knights Variation,34,0.035908,7.1e-05,0.359526,0.014769,3.349501
+200,"Queen's Gambit Declined: Three Knights, Vienna Variation",9,0.036378,4.7e-05,0.303791,0.005946,3.329804
+200,"Queen's Gambit Declined: Vienna Variation, Quiet Variation",14,0.034156,4.2e-05,0.263161,0.008344,3.392349
+200,Queen's Pawn Game: Accelerated London System,98,0.029857,2.8e-05,0.320097,0.018738,3.662866
+200,Queen's Pawn Game: London System,35,0.031248,5.2e-05,0.323223,0.028665,3.87464
+200,"Ruy Lopez: Berlin Defense, Improved Steinitz Defense",10,0.033341,0.000153,0.373112,0.028875,4.817901
+200,Ruy Lopez: Exchange Variation,9,0.041444,9.7e-05,0.467343,0.036089,3.208143
+200,"Ruy Lopez: Exchange Variation, Lutikov Variation",10,0.044838,0.000202,0.401795,0.027337,3.147746
+200,"Ruy Lopez: Exchange Variation, Normal Variation",9,0.041444,9.7e-05,0.473418,0.034082,3.208143
+200,Ruy Lopez: Morphy Defense,9,0.040314,0.000108,0.497945,0.022661,3.239766
+200,"Ruy Lopez: Morphy Defense, Anderssen Variation",9,0.040314,0.000108,0.453968,0.026772,3.239766
+200,"Ruy Lopez: Morphy Defense, Caro Variation",10,0.039986,9.8e-05,0.460445,0.07087,3.245373
+200,Ruy Lopez: Steinitz Defense,17,0.083995,0.041435,0.371974,0.05218,4.874606
+200,Semi-Slav Defense,14,0.033774,4.3e-05,0.367238,0.0222,3.404082
+200,Semi-Slav Defense: Accelerated Move Order,17,0.032577,9.6e-05,0.33232,0.02061,4.259849
+200,Semi-Slav Defense: Main Line,17,0.03323,3.7e-05,0.323265,0.020431,3.418366
+200,Sicilian Defense,10,0.034915,7.2e-05,0.479263,0.074454,3.384548
+200,Sicilian Defense: Chekhover Variation,13,0.028987,0.000221,0.409734,0.052242,5.720188
+200,Sicilian Defense: Closed,66,0.031003,8.9e-05,0.361892,0.055075,4.123058
+200,"Sicilian Defense: Closed, Traditional",34,0.032218,0.000111,0.3396,0.063751,3.872823
+200,Sicilian Defense: Franco-Sicilian Variation,20,0.030892,5.3e-05,0.384879,0.075675,3.501296
+200,Sicilian Defense: Grand Prix Attack,35,0.033545,2.7e-05,0.377194,0.063665,3.405713
+200,Sicilian Defense: Löwenthal Variation,10,0.030906,0.000276,0.501852,0.056042,6.299925
+200,Sicilian Defense: Modern Variations,35,0.030572,9.4e-05,0.311342,0.025573,4.302075
+200,"Sicilian Defense: Modern Variations, Anti-Qxd4 Move Order",17,0.031442,0.000108,0.38408,0.073125,4.30164
+200,"Sicilian Defense: Modern Variations, Anti-Qxd4 Move Order Accepted",10,0.035589,5.9e-05,0.391511,0.061378,3.358598
+200,"Sicilian Defense: Modern Variations, Main Line",10,0.034915,7.2e-05,0.567433,0.085864,3.384548
+200,Sicilian Defense: Old Sicilian,35,0.031761,5.9e-05,0.32401,0.04858,3.861557
+200,Sicilian Defense: Open,17,0.033061,6.6e-05,0.45994,0.088346,3.438979
+200,Sicilian Defense: Taimanov Variation,9,0.036506,5.7e-05,0.45596,0.071935,3.331271
+300,Bishop's Opening,35,0.036711,0.000177,0.352661,0.054265,3.358897
+300,Bishop's Opening: Berlin Defense,28,0.029186,0.000279,0.308934,0.012975,5.56747
+300,Bogo-Indian Defense: Exchange Variation,18,0.144428,0.072007,0.347724,0.024347,2.769898
+300,Bogo-Indian Defense: Nimzowitsch Variation,18,0.047088,0.000537,0.301482,0.012573,3.134094
+300,Catalan Opening: Closed,24,0.035878,3.3e-05,0.379432,0.059839,3.339256
+300,Grünfeld Defense,10,0.037241,4.6e-05,0.346147,0.059713,3.30625
+300,Grünfeld Defense: Exchange Variation,10,0.037442,4.3e-05,0.436404,0.082957,3.2999
+300,Grünfeld Defense: Three Knights Variation,30,0.033494,6.9e-05,0.330739,0.060153,3.875829
+300,"Grünfeld Defense: Three Knights Variation, Petrosian System",21,0.036149,3.4e-05,0.377614,0.068151,3.33243
+300,Indian Defense: Anti-Nimzo-Indian,22,0.089633,0.022203,0.274575,0.03745,2.994718
+300,Indian Defense: London System,35,0.029356,0.000113,0.350224,0.05641,4.737349
+300,Italian Game: Classical Variation,18,0.028133,0.000188,0.364866,0.031454,5.905356
+300,"Italian Game: Classical Variation, Albin Gambit",16,0.032603,0.000103,0.380332,0.028566,4.312125
+300,"Italian Game: Classical Variation, Center Attack",16,0.03165,0.0001,0.428088,0.023157,4.34094
+300,"Italian Game: Classical Variation, Giuoco Pianissimo",35,0.029827,0.000104,0.346306,0.017855,4.717059
+300,"Italian Game: Giuoco Pianissimo, Normal",27,0.030954,0.000101,0.349352,0.016064,4.520756
+300,Italian Game: Giuoco Piano,22,0.032297,7.7e-05,0.369313,0.020547,4.080265
+300,"Italian Game: Two Knights Defense, Knight Attack, Normal Variation",25,0.032851,2.9e-05,0.444001,0.080385,3.427986
+300,"Italian Game: Two Knights Defense, Modern Bishop's Opening",31,0.032053,2.9e-05,0.299176,0.015923,3.453051
+300,"Italian Game: Two Knights Defense, Traxler Counterattack, Bishop Sacrifice Line",22,0.034419,3.3e-05,0.323835,0.020155,3.381835
+300,"Italian Game: Two Knights Defense, Traxler Counterattack, Knight Sacrifice Line",22,0.036485,0.000168,0.372124,0.029836,3.350328
+300,King's Indian Defense,10,0.037284,5e-05,0.405792,0.040393,3.307183
+300,King's Indian Defense: Fianchetto Variation,22,0.03631,3.2e-05,0.441064,0.108347,3.327425
+300,"King's Indian Defense: Fianchetto Variation, Delayed Fianchetto",16,0.037513,3.5e-05,0.291299,0.054513,3.295308
+300,King's Indian Defense: Four Pawns Attack,9,0.037855,5.5e-05,0.459675,0.05215,3.294445
+300,King's Indian Defense: Normal Variation,10,0.03657,6.4e-05,0.400227,0.041976,3.333889
+300,"King's Indian Defense: Normal Variation, King's Knight Variation",18,0.036248,4.1e-05,0.414267,0.048594,3.332836
+300,"King's Indian Defense: Normal Variation, Rare Defenses",24,0.034538,8.8e-05,0.43958,0.049356,3.96611
+300,King's Indian Defense: Smyslov Variation,21,0.036611,3.4e-05,0.407008,0.054143,3.319939
+300,London System,29,0.031701,8e-05,0.341028,0.051066,3.952398
+300,"London System, with Bd3",13,0.037288,4.8e-05,0.399965,0.07114,3.30643
+300,"London System, with Be2",13,0.037288,4.8e-05,0.383035,0.07741,3.30643
+300,Neo-Grünfeld Defense: with Nf3,24,0.035354,3e-05,0.320509,0.051207,3.353164
+300,Nimzo-Indian Defense,21,0.041982,0.000586,0.272688,0.013207,3.928605
+300,Nimzo-Indian Defense: Classical Variation,10,0.037019,4.2e-05,0.336314,0.019322,3.31106
+300,"Nimzo-Indian Defense: Classical Variation, Berlin Variation",10,0.037019,4.2e-05,0.339277,0.020024,3.31106
+300,Nimzo-Indian Defense: Three Knights Variation,30,0.038163,0.000445,0.326212,0.067083,3.809718
+300,Petrov's Defense: Italian Variation,20,0.032128,0.00018,0.314097,0.012347,4.180041
+300,Philidor Defense,51,0.030938,9.6e-05,0.3688,0.063277,4.312739
+300,Philidor Defense: Exchange Variation,20,0.029292,6e-05,0.372259,0.040539,3.562388
+300,Queen's Gambit Accepted,33,0.031013,3e-05,0.340622,0.036558,3.487007
+300,Queen's Gambit Accepted: Old Variation,34,0.032201,3.9e-05,0.377624,0.054529,3.451856
+300,Queen's Gambit Declined,38,0.04056,0.001588,0.336386,0.029532,4.109152
+300,Queen's Gambit Declined: Harrwitz Attack,34,0.035314,4.8e-05,0.334187,0.015322,3.359864
+300,Queen's Gambit Declined: Modern Variation,19,0.035602,3.6e-05,0.329033,0.019593,3.348343
+300,Queen's Gambit Declined: Ragozin Defense,39,0.034976,2.2e-05,0.329671,0.017334,3.36107
+300,Queen's Gambit Declined: Three Knights Variation,34,0.035314,4.8e-05,0.359526,0.014769,3.359864
+300,"Queen's Gambit Declined: Three Knights, Vienna Variation",9,0.036115,4.5e-05,0.303791,0.005946,3.337003
+300,"Queen's Gambit Declined: Vienna Variation, Quiet Variation",14,0.034327,3.7e-05,0.263161,0.008344,3.385966
+300,Queen's Pawn Game: Accelerated London System,98,0.029541,4.9e-05,0.320097,0.018738,3.819082
+300,Queen's Pawn Game: London System,35,0.029842,0.000106,0.323223,0.028665,4.717236
+300,"Ruy Lopez: Berlin Defense, Improved Steinitz Defense",10,0.036838,3.2e-05,0.373112,0.028875,3.311854
+300,Ruy Lopez: Exchange Variation,9,0.042071,0.000184,0.467343,0.036089,3.20901
+300,"Ruy Lopez: Exchange Variation, Lutikov Variation",10,0.04171,0.000167,0.401795,0.027337,3.213919
+300,"Ruy Lopez: Exchange Variation, Normal Variation",9,0.037797,3.2e-05,0.473418,0.034082,3.286027
+300,Ruy Lopez: Morphy Defense,9,0.036849,3.6e-05,0.497945,0.022661,3.313139
+300,"Ruy Lopez: Morphy Defense, Anderssen Variation",9,0.036849,3.6e-05,0.453968,0.026772,3.313139
+300,"Ruy Lopez: Morphy Defense, Caro Variation",10,0.037,3.2e-05,0.460445,0.07087,3.307772
+300,Ruy Lopez: Steinitz Defense,17,0.085287,0.04123,0.371974,0.05218,4.008748
+300,Semi-Slav Defense,14,0.031685,0.000114,0.367238,0.0222,4.466343
+300,Semi-Slav Defense: Accelerated Move Order,17,0.032949,3.6e-05,0.33232,0.02061,3.427146
+300,Semi-Slav Defense: Main Line,17,0.03151,9.5e-05,0.323265,0.020431,4.293169
+300,Sicilian Defense,10,0.035023,7.1e-05,0.479263,0.074454,3.381269
+300,Sicilian Defense: Chekhover Variation,13,0.032275,9.2e-05,0.409734,0.052242,3.479284
+300,Sicilian Defense: Closed,66,0.031765,0.000118,0.361892,0.055075,4.106814
+300,"Sicilian Defense: Closed, Traditional",34,0.032485,0.000112,0.3396,0.063751,3.864594
+300,Sicilian Defense: Franco-Sicilian Variation,20,0.030854,9.7e-05,0.384879,0.075675,4.197479
+300,Sicilian Defense: Grand Prix Attack,35,0.033193,2.5e-05,0.377194,0.063665,3.415261
+300,Sicilian Defense: Löwenthal Variation,10,0.035652,6.9e-05,0.501852,0.056042,3.36214
+300,Sicilian Defense: Modern Variations,35,0.028825,0.000137,0.311342,0.025573,5.152549
+300,"Sicilian Defense: Modern Variations, Anti-Qxd4 Move Order",17,0.031898,5.4e-05,0.38408,0.073125,3.468696
+300,"Sicilian Defense: Modern Variations, Anti-Qxd4 Move Order Accepted",10,0.035066,6.5e-05,0.391511,0.061378,3.376292
+300,"Sicilian Defense: Modern Variations, Main Line",10,0.035023,7.1e-05,0.567433,0.085864,3.381269
+300,Sicilian Defense: Old Sicilian,35,0.031637,6.8e-05,0.32401,0.04858,3.869538
+300,Sicilian Defense: Open,17,0.034994,0.000158,0.45994,0.088346,3.404785
+300,Sicilian Defense: Taimanov Variation,9,0.036765,6.1e-05,0.45596,0.071935,3.325782
+400,Bishop's Opening,35,0.037507,0.000881,0.352661,0.054265,4.603675
+400,Bishop's Opening: Berlin Defense,28,0.028036,0.000182,0.308934,0.012975,5.58475
+400,Bogo-Indian Defense: Exchange Variation,18,0.123282,0.041411,0.347724,0.024347,2.754828
+400,Bogo-Indian Defense: Nimzowitsch Variation,18,0.051324,0.001609,0.301482,0.012573,3.122148
+400,Catalan Opening: Closed,24,0.035954,3.7e-05,0.379432,0.059839,3.338385
+400,Grünfeld Defense,10,0.037788,4.8e-05,0.346147,0.059713,3.291742
+400,Grünfeld Defense: Exchange Variation,10,0.037788,4.8e-05,0.436404,0.082957,3.291742
+400,Grünfeld Defense: Three Knights Variation,30,0.034441,3.4e-05,0.330739,0.060153,3.381605
+400,"Grünfeld Defense: Three Knights Variation, Petrosian System",21,0.03619,3.8e-05,0.377614,0.068151,3.332763
+400,Indian Defense: Anti-Nimzo-Indian,22,0.078454,0.013352,0.274575,0.03745,2.998234
+400,Indian Defense: London System,35,0.031834,0.000104,0.350224,0.05641,3.873609
+400,Italian Game: Classical Variation,18,0.034008,3.9e-05,0.364866,0.031454,3.39585
+400,"Italian Game: Classical Variation, Albin Gambit",16,0.034554,3.7e-05,0.380332,0.028566,3.378722
+400,"Italian Game: Classical Variation, Center Attack",16,0.034583,4.1e-05,0.428088,0.023157,3.379536
+400,"Italian Game: Classical Variation, Giuoco Pianissimo",35,0.031756,9e-05,0.346306,0.017855,4.260831
+400,"Italian Game: Giuoco Pianissimo, Normal",27,0.031713,0.00011,0.349352,0.016064,4.499865
+400,Italian Game: Giuoco Piano,22,0.035232,7.7e-05,0.369313,0.020547,3.36992
+400,"Italian Game: Two Knights Defense, Knight Attack, Normal Variation",25,0.033855,2.5e-05,0.444001,0.080385,3.395325
+400,"Italian Game: Two Knights Defense, Modern Bishop's Opening",31,0.029319,0.000157,0.299176,0.015923,5.342352
+400,"Italian Game: Two Knights Defense, Traxler Counterattack, Bishop Sacrifice Line",22,0.035282,3.7e-05,0.323835,0.020155,3.358008
+400,"Italian Game: Two Knights Defense, Traxler Counterattack, Knight Sacrifice Line",22,0.039414,0.000292,0.372124,0.029836,3.294994
+400,King's Indian Defense,10,0.037772,5.4e-05,0.405792,0.040393,3.29525
+400,King's Indian Defense: Fianchetto Variation,22,0.036467,3.5e-05,0.441064,0.108347,3.323717
+400,"King's Indian Defense: Fianchetto Variation, Delayed Fianchetto",16,0.037847,3.6e-05,0.291299,0.054513,3.286363
+400,King's Indian Defense: Four Pawns Attack,9,0.038239,6e-05,0.459675,0.05215,3.285381
+400,King's Indian Defense: Normal Variation,10,0.036915,6.9e-05,0.400227,0.041976,3.325731
+400,"King's Indian Defense: Normal Variation, King's Knight Variation",18,0.036572,4.4e-05,0.414267,0.048594,3.324497
+400,"King's Indian Defense: Normal Variation, Rare Defenses",24,0.034885,9.1e-05,0.43958,0.049356,3.956917
+400,King's Indian Defense: Smyslov Variation,21,0.03696,3.6e-05,0.407008,0.054143,3.310945
+400,London System,29,0.033444,4.3e-05,0.341028,0.051066,3.415921
+400,"London System, with Bd3",13,0.036949,5.1e-05,0.399965,0.07114,3.316665
+400,"London System, with Be2",13,0.036949,5.1e-05,0.383035,0.07741,3.316665
+400,Neo-Grünfeld Defense: with Nf3,24,0.035572,3.1e-05,0.320509,0.051207,3.347287
+400,Nimzo-Indian Defense,21,0.046218,0.001533,0.272688,0.013207,3.901524
+400,Nimzo-Indian Defense: Classical Variation,10,0.037257,4.8e-05,0.336314,0.019322,3.306181
+400,"Nimzo-Indian Defense: Classical Variation, Berlin Variation",10,0.037257,4.8e-05,0.339277,0.020024,3.306181
+400,Nimzo-Indian Defense: Three Knights Variation,30,0.056085,0.003741,0.326212,0.067083,3.637183
+400,Petrov's Defense: Italian Variation,20,0.029756,9e-05,0.314097,0.012347,4.229969
+400,Philidor Defense,51,0.031836,7.8e-05,0.3688,0.063277,4.010822
+400,Philidor Defense: Exchange Variation,20,0.030668,6.5e-05,0.372259,0.040539,3.517583
+400,Queen's Gambit Accepted,33,0.031429,3e-05,0.340622,0.036558,3.473006
+400,Queen's Gambit Accepted: Old Variation,34,0.032595,3.9e-05,0.377624,0.054529,3.439273
+400,Queen's Gambit Declined,38,0.042772,0.00152,0.336386,0.029532,3.313461
+400,Queen's Gambit Declined: Harrwitz Attack,34,0.034154,3.4e-05,0.334187,0.015322,3.389361
+400,Queen's Gambit Declined: Modern Variation,19,0.035673,4.4e-05,0.329033,0.019593,3.348518
+400,Queen's Gambit Declined: Ragozin Defense,39,0.03486,2.6e-05,0.329671,0.017334,3.365535
+400,Queen's Gambit Declined: Three Knights Variation,34,0.034154,3.4e-05,0.359526,0.014769,3.389361
+400,"Queen's Gambit Declined: Three Knights, Vienna Variation",9,0.036105,5.2e-05,0.303791,0.005946,3.339389
+400,"Queen's Gambit Declined: Vienna Variation, Quiet Variation",14,0.034244,4.2e-05,0.263161,0.008344,3.389842
+400,Queen's Pawn Game: Accelerated London System,98,0.029011,4.6e-05,0.320097,0.018738,3.974974
+400,Queen's Pawn Game: London System,35,0.030312,0.00014,0.323223,0.028665,4.7123
+400,"Ruy Lopez: Berlin Defense, Improved Steinitz Defense",10,0.037041,3.6e-05,0.373112,0.028875,3.307468
+400,Ruy Lopez: Exchange Variation,9,0.042346,0.000188,0.467343,0.036089,3.203437
+400,"Ruy Lopez: Exchange Variation, Lutikov Variation",10,0.038419,3.5e-05,0.401795,0.027337,3.270373
+400,"Ruy Lopez: Exchange Variation, Normal Variation",9,0.038073,3.8e-05,0.473418,0.034082,3.280453
+400,Ruy Lopez: Morphy Defense,9,0.037113,4.3e-05,0.497945,0.022661,3.307718
+400,"Ruy Lopez: Morphy Defense, Anderssen Variation",9,0.037113,4.3e-05,0.453968,0.026772,3.307718
+400,"Ruy Lopez: Morphy Defense, Caro Variation",10,0.037391,3.9e-05,0.460445,0.07087,3.298981
+400,Ruy Lopez: Steinitz Defense,17,0.086705,0.041016,0.371974,0.05218,3.141371
+400,Semi-Slav Defense,14,0.033636,4.4e-05,0.367238,0.0222,3.408527
+400,Semi-Slav Defense: Accelerated Move Order,17,0.032948,4e-05,0.33232,0.02061,3.428344
+400,Semi-Slav Defense: Main Line,17,0.033117,3.8e-05,0.323265,0.020431,3.422027
+400,Sicilian Defense,10,0.035228,8.2e-05,0.479263,0.074454,3.378733
+400,Sicilian Defense: Chekhover Variation,13,0.032441,0.000163,0.409734,0.052242,4.540791
+400,Sicilian Defense: Closed,66,0.033741,7e-05,0.361892,0.055075,3.411422
+400,"Sicilian Defense: Closed, Traditional",34,0.029943,0.000117,0.3396,0.063751,4.752163
+400,Sicilian Defense: Franco-Sicilian Variation,20,0.028487,0.000147,0.384879,0.075675,4.974049
+400,Sicilian Defense: Grand Prix Attack,35,0.034381,6.4e-05,0.377194,0.063665,3.389657
+400,Sicilian Defense: Löwenthal Variation,10,0.036734,7.1e-05,0.501852,0.056042,3.331613
+400,Sicilian Defense: Modern Variations,35,0.031372,6.2e-05,0.311342,0.025573,3.875362
+400,"Sicilian Defense: Modern Variations, Anti-Qxd4 Move Order",17,0.032019,6.1e-05,0.38408,0.073125,3.467204
+400,"Sicilian Defense: Modern Variations, Anti-Qxd4 Move Order Accepted",10,0.035271,7.6e-05,0.391511,0.061378,3.373755
+400,"Sicilian Defense: Modern Variations, Main Line",10,0.037609,5e-05,0.567433,0.085864,3.29764
+400,Sicilian Defense: Old Sicilian,35,0.029371,0.00014,0.32401,0.04858,5.134127
+400,Sicilian Defense: Open,17,0.034041,0.000228,0.45994,0.088346,4.257991
+400,Sicilian Defense: Taimanov Variation,9,0.037559,5.2e-05,0.45596,0.071935,3.299461
+500,Bishop's Opening,35,0.040395,0.000804,0.352661,0.054265,3.723725
+500,Bishop's Opening: Berlin Defense,28,0.030691,3.5e-05,0.308934,0.012975,3.49972
+500,Bogo-Indian Defense: Exchange Variation,18,0.140943,0.072586,0.347724,0.024347,2.83454
+500,Bogo-Indian Defense: Nimzowitsch Variation,18,0.046128,0.000555,0.301482,0.012573,3.160228
+500,Catalan Opening: Closed,24,0.035434,3.3e-05,0.379432,0.059839,3.352129
+500,Grünfeld Defense,10,0.037332,4.4e-05,0.346147,0.059713,3.303208
+500,Grünfeld Defense: Exchange Variation,10,0.037131,4.6e-05,0.436404,0.082957,3.309557
+500,Grünfeld Defense: Three Knights Variation,30,0.034427,3.2e-05,0.330739,0.060153,3.3812
+500,"Grünfeld Defense: Three Knights Variation, Petrosian System",21,0.03617,3.5e-05,0.377614,0.068151,3.332184
+500,Indian Defense: Anti-Nimzo-Indian,22,0.077845,0.013368,0.274575,0.03745,3.012995
+500,Indian Defense: London System,35,0.03119,6e-05,0.350224,0.05641,3.880756
+500,Italian Game: Classical Variation,18,0.032218,0.000102,0.364866,0.031454,4.229345
+500,"Italian Game: Classical Variation, Albin Gambit",16,0.031323,0.000176,0.380332,0.028566,5.228895
+500,"Italian Game: Classical Variation, Center Attack",16,0.032569,0.000114,0.428088,0.023157,4.317218
+500,"Italian Game: Classical Variation, Giuoco Pianissimo",35,0.031818,5.9e-05,0.346306,0.017855,3.85952
+500,"Italian Game: Giuoco Pianissimo, Normal",27,0.033497,3.5e-05,0.349352,0.016064,3.410307
+500,Italian Game: Giuoco Piano,22,0.033134,0.000284,0.369313,0.020547,5.35841
+500,"Italian Game: Two Knights Defense, Knight Attack, Normal Variation",25,0.033902,3.3e-05,0.444001,0.080385,3.397331
+500,"Italian Game: Two Knights Defense, Modern Bishop's Opening",31,0.03257,3.6e-05,0.299176,0.015923,3.439633
+500,"Italian Game: Two Knights Defense, Traxler Counterattack, Bishop Sacrifice Line",22,0.035909,4e-05,0.323835,0.020155,3.341222
+500,"Italian Game: Two Knights Defense, Traxler Counterattack, Knight Sacrifice Line",22,0.040041,0.00029,0.372124,0.029836,3.278208
+500,King's Indian Defense,10,0.037268,5e-05,0.405792,0.040393,3.307413
+500,King's Indian Defense: Fianchetto Variation,22,0.036107,3.4e-05,0.441064,0.108347,3.33351
+500,"King's Indian Defense: Fianchetto Variation, Delayed Fianchetto",16,0.037442,3.6e-05,0.291299,0.054513,3.29747
+500,King's Indian Defense: Four Pawns Attack,9,0.037996,5.5e-05,0.459675,0.05215,3.290508
+500,King's Indian Defense: Normal Variation,10,0.036696,6.4e-05,0.400227,0.041976,3.330345
+500,"King's Indian Defense: Normal Variation, King's Knight Variation",18,0.036264,4.2e-05,0.414267,0.048594,3.332661
+500,"King's Indian Defense: Normal Variation, Rare Defenses",24,0.035845,3.9e-05,0.43958,0.049356,3.343651
+500,King's Indian Defense: Smyslov Variation,21,0.036501,3.7e-05,0.407008,0.054143,3.324007
+500,London System,29,0.032201,7.4e-05,0.341028,0.051066,3.934108
+500,"London System, with Bd3",13,0.036227,5.1e-05,0.399965,0.07114,3.337417
+500,"London System, with Be2",13,0.036227,5.1e-05,0.383035,0.07741,3.337417
+500,Neo-Grünfeld Defense: with Nf3,24,0.03549,3e-05,0.320509,0.051207,3.349105
+500,Nimzo-Indian Defense,21,0.043257,0.00051,0.272688,0.013207,3.22283
+500,Nimzo-Indian Defense: Classical Variation,10,0.036896,4.3e-05,0.336314,0.019322,3.314569
+500,"Nimzo-Indian Defense: Classical Variation, Berlin Variation",10,0.036896,4.3e-05,0.339277,0.020024,3.314569
+500,Nimzo-Indian Defense: Three Knights Variation,30,0.053633,0.003081,0.326212,0.067083,3.172712
+500,Petrov's Defense: Italian Variation,20,0.035211,0.000182,0.314097,0.012347,3.394815
+500,Philidor Defense,51,0.031203,7.3e-05,0.3688,0.063277,4.02892
+500,Philidor Defense: Exchange Variation,20,0.030491,6e-05,0.372259,0.040539,3.521718
+500,Queen's Gambit Accepted,33,0.031502,2.8e-05,0.340622,0.036558,3.470645
+500,Queen's Gambit Accepted: Old Variation,34,0.031475,2.6e-05,0.377624,0.054529,3.470013
+500,Queen's Gambit Declined,38,0.042105,0.001534,0.336386,0.029532,3.697888
+500,Queen's Gambit Declined: Harrwitz Attack,34,0.035079,4.8e-05,0.334187,0.015322,3.366314
+500,Queen's Gambit Declined: Modern Variation,19,0.035514,3.6e-05,0.329033,0.019593,3.350533
+500,Queen's Gambit Declined: Ragozin Defense,39,0.034585,2.2e-05,0.329671,0.017334,3.372467
+500,Queen's Gambit Declined: Three Knights Variation,34,0.035079,4.8e-05,0.359526,0.014769,3.366314
+500,"Queen's Gambit Declined: Three Knights, Vienna Variation",9,0.036378,4e-05,0.303791,0.005946,3.327559
+500,"Queen's Gambit Declined: Vienna Variation, Quiet Variation",14,0.034238,3.7e-05,0.263161,0.008344,3.388484
+500,Queen's Pawn Game: Accelerated London System,98,0.028889,5.3e-05,0.320097,0.018738,4.120484
+500,Queen's Pawn Game: London System,35,0.032178,2.4e-05,0.323223,0.028665,3.447084
+500,"Ruy Lopez: Berlin Defense, Improved Steinitz Defense",10,0.03682,3.1e-05,0.373112,0.028875,3.312101
+500,Ruy Lopez: Exchange Variation,9,0.041796,0.000187,0.467343,0.036089,3.216818
+500,"Ruy Lopez: Exchange Variation, Lutikov Variation",10,0.041462,0.00017,0.401795,0.027337,3.220946
+500,"Ruy Lopez: Exchange Variation, Normal Variation",9,0.037522,3.3e-05,0.473418,0.034082,3.293835
+500,Ruy Lopez: Morphy Defense,9,0.036574,3.7e-05,0.497945,0.022661,3.320946
+500,"Ruy Lopez: Morphy Defense, Anderssen Variation",9,0.036574,3.7e-05,0.453968,0.026772,3.320946
+500,"Ruy Lopez: Morphy Defense, Caro Variation",10,0.036753,3.3e-05,0.460445,0.07087,3.314799
+500,Ruy Lopez: Steinitz Defense,17,0.086711,0.041012,0.371974,0.05218,3.140107
+500,Semi-Slav Defense,14,0.033895,3.7e-05,0.367238,0.0222,3.398462
+500,Semi-Slav Defense: Accelerated Move Order,17,0.033039,3.5e-05,0.33232,0.02061,3.423852
+500,Semi-Slav Defense: Main Line,17,0.03333,3.2e-05,0.323265,0.020431,3.413738
+500,Sicilian Defense,10,0.032662,0.000171,0.479263,0.074454,4.84635
+500,Sicilian Defense: Chekhover Variation,13,0.032287,9.2e-05,0.409734,0.052242,3.479107
+500,Sicilian Defense: Closed,66,0.032088,8.8e-05,0.361892,0.055075,3.673914
+500,"Sicilian Defense: Closed, Traditional",34,0.032699,3.4e-05,0.3396,0.063751,3.434861
+500,Sicilian Defense: Franco-Sicilian Variation,20,0.028696,0.000142,0.384879,0.075675,4.965564
+500,Sicilian Defense: Grand Prix Attack,35,0.03384,6.5e-05,0.377194,0.063665,3.406184
+500,Sicilian Defense: Löwenthal Variation,10,0.030774,0.000274,0.501852,0.056042,6.303561
+500,Sicilian Defense: Modern Variations,35,0.031169,3.3e-05,0.311342,0.025573,3.483456
+500,"Sicilian Defense: Modern Variations, Anti-Qxd4 Move Order",17,0.031763,5.4e-05,0.38408,0.073125,3.472689
+500,"Sicilian Defense: Modern Variations, Anti-Qxd4 Move Order Accepted",10,0.034835,6.5e-05,0.391511,0.061378,3.38308
+500,"Sicilian Defense: Modern Variations, Main Line",10,0.034792,7.1e-05,0.567433,0.085864,3.388057
+500,Sicilian Defense: Old Sicilian,35,0.032213,6.3e-05,0.32401,0.04858,3.849243
+500,Sicilian Defense: Open,17,0.034994,0.000158,0.45994,0.088346,3.404785
+500,Sicilian Defense: Taimanov Variation,9,0.036506,5.7e-05,0.45596,0.071935,3.331271
+600,Bishop's Opening,35,0.033324,0.000291,0.352661,0.054265,5.053206
+600,Bishop's Opening: Berlin Defense,28,0.025719,0.000181,0.308934,0.012975,6.151255
+600,Bogo-Indian Defense: Exchange Variation,18,0.146096,0.072687,0.347724,0.024347,2.798675
+600,Bogo-Indian Defense: Nimzowitsch Variation,18,0.051467,0.001629,0.301482,0.012573,3.119827
+600,Catalan Opening: Closed,24,0.035654,3.9e-05,0.379432,0.059839,3.347734
+600,Grünfeld Defense,10,0.037674,4.9e-05,0.346147,0.059713,3.295119
+600,Grünfeld Defense: Exchange Variation,10,0.037876,4.6e-05,0.436404,0.082957,3.288769
+600,Grünfeld Defense: Three Knights Variation,30,0.033645,7.3e-05,0.330739,0.060153,3.872594
+600,"Grünfeld Defense: Three Knights Variation, Petrosian System",21,0.036267,3.9e-05,0.377614,0.068151,3.330882
+600,Indian Defense: Anti-Nimzo-Indian,22,0.07796,0.013361,0.274575,0.03745,3.010673
+600,Indian Defense: London System,35,0.030822,6.3e-05,0.350224,0.05641,3.893872
+600,Italian Game: Classical Variation,18,0.027536,0.00025,0.364866,0.031454,6.703815
+600,"Italian Game: Classical Variation, Albin Gambit",16,0.032659,0.000104,0.380332,0.028566,4.310511
+600,"Italian Game: Classical Variation, Center Attack",16,0.032816,0.000111,0.428088,0.023157,4.308312
+600,"Italian Game: Classical Variation, Giuoco Pianissimo",35,0.032147,6e-05,0.346306,0.017855,3.849397
+600,"Italian Game: Giuoco Pianissimo, Normal",27,0.031766,6.8e-05,0.349352,0.016064,3.979426
+600,Italian Game: Giuoco Piano,22,0.03259,0.000178,0.369313,0.020547,4.722001
+600,"Italian Game: Two Knights Defense, Knight Attack, Normal Variation",25,0.0339,3.4e-05,0.444001,0.080385,3.397386
+600,"Italian Game: Two Knights Defense, Modern Bishop's Opening",31,0.025969,0.000219,0.299176,0.015923,6.796561
+600,"Italian Game: Two Knights Defense, Traxler Counterattack, Bishop Sacrifice Line",22,0.034391,3.5e-05,0.323835,0.020155,3.383159
+600,"Italian Game: Two Knights Defense, Traxler Counterattack, Knight Sacrifice Line",22,0.034391,3.5e-05,0.372124,0.029836,3.383159
+600,King's Indian Defense,10,0.037522,5.5e-05,0.405792,0.040393,3.302304
+600,King's Indian Defense: Fianchetto Variation,22,0.036457,3.6e-05,0.441064,0.108347,3.324671
+600,"King's Indian Defense: Fianchetto Variation, Delayed Fianchetto",16,0.037834,3.8e-05,0.291299,0.054513,3.287675
+600,King's Indian Defense: Four Pawns Attack,9,0.03812,6.1e-05,0.459675,0.05215,3.289024
+600,King's Indian Defense: Normal Variation,10,0.031808,0.000288,0.400227,0.041976,6.27537
+600,"King's Indian Defense: Normal Variation, King's Knight Variation",18,0.03656,4.6e-05,0.414267,0.048594,3.325664
+600,"King's Indian Defense: Normal Variation, Rare Defenses",24,0.034772,9.2e-05,0.43958,0.049356,3.960731
+600,King's Indian Defense: Smyslov Variation,21,0.036879,3.8e-05,0.407008,0.054143,3.313792
+600,London System,29,0.030797,0.000178,0.341028,0.051066,5.422679
+600,"London System, with Bd3",13,0.037302,4.9e-05,0.399965,0.07114,3.306321
+600,"London System, with Be2",13,0.037302,4.9e-05,0.383035,0.07741,3.306321
+600,Neo-Grünfeld Defense: with Nf3,24,0.035429,3.4e-05,0.320509,0.051207,3.352258
+600,Nimzo-Indian Defense,21,0.046172,0.001555,0.272688,0.013207,3.904442
+600,Nimzo-Indian Defense: Classical Variation,10,0.033987,0.000172,0.336314,0.019322,4.805514
+600,"Nimzo-Indian Defense: Classical Variation, Berlin Variation",10,0.034177,0.000171,0.339277,0.020024,4.799359
+600,Nimzo-Indian Defense: Three Knights Variation,30,0.041444,0.001146,0.326212,0.067083,3.783215
+600,Petrov's Defense: Italian Variation,20,0.033947,0.00018,0.314097,0.012347,4.123515
+600,Philidor Defense,51,0.032339,5.6e-05,0.3688,0.063277,3.720434
+600,Philidor Defense: Exchange Variation,20,0.029478,6.6e-05,0.372259,0.040539,3.55813
+600,Queen's Gambit Accepted,33,0.03186,3.1e-05,0.340622,0.036558,3.460385
+600,Queen's Gambit Accepted: Old Variation,34,0.033647,3.6e-05,0.377624,0.054529,3.40602
+600,Queen's Gambit Declined,38,0.047876,0.007238,0.336386,0.029532,4.090135
+600,Queen's Gambit Declined: Harrwitz Attack,34,0.035177,5.3e-05,0.334187,0.015322,3.365054
+600,Queen's Gambit Declined: Modern Variation,19,0.035693,4.4e-05,0.329033,0.019593,3.348224
+600,Queen's Gambit Declined: Ragozin Defense,39,0.03488,2.6e-05,0.329671,0.017334,3.365229
+600,Queen's Gambit Declined: Three Knights Variation,34,0.035177,5.3e-05,0.359526,0.014769,3.365054
+600,"Queen's Gambit Declined: Three Knights, Vienna Variation",9,0.036662,4.7e-05,0.303791,0.005946,3.321864
+600,"Queen's Gambit Declined: Vienna Variation, Quiet Variation",14,0.03566,3.3e-05,0.263161,0.008344,3.345017
+600,Queen's Pawn Game: Accelerated London System,98,0.030046,9e-05,0.320097,0.018738,4.232428
+600,Queen's Pawn Game: London System,35,0.031952,5.4e-05,0.323223,0.028665,3.85324
+600,"Ruy Lopez: Berlin Defense, Improved Steinitz Defense",10,0.034049,0.000161,0.373112,0.028875,4.799326
+600,Ruy Lopez: Exchange Variation,9,0.042346,0.000188,0.467343,0.036089,3.203437
+600,"Ruy Lopez: Exchange Variation, Lutikov Variation",10,0.041958,0.00017,0.401795,0.027337,3.208903
+600,"Ruy Lopez: Exchange Variation, Normal Variation",9,0.038073,3.8e-05,0.473418,0.034082,3.280453
+600,Ruy Lopez: Morphy Defense,9,0.036861,4.4e-05,0.497945,0.022661,3.315178
+600,"Ruy Lopez: Morphy Defense, Anderssen Variation",9,0.036861,4.4e-05,0.453968,0.026772,3.315178
+600,"Ruy Lopez: Morphy Defense, Caro Variation",10,0.037011,3.9e-05,0.460445,0.07087,3.309607
+600,Ruy Lopez: Steinitz Defense,17,0.085664,0.041198,0.371974,0.05218,3.999508
+600,Semi-Slav Defense,14,0.034219,4.2e-05,0.367238,0.0222,3.390309
+600,Semi-Slav Defense: Accelerated Move Order,17,0.033413,3.8e-05,0.33232,0.02061,3.413611
+600,Semi-Slav Defense: Main Line,17,0.033755,3.5e-05,0.323265,0.020431,3.401752
+600,Sicilian Defense,10,0.035138,7.8e-05,0.479263,0.074454,3.379899
+600,Sicilian Defense: Chekhover Variation,13,0.029158,0.000228,0.409734,0.052242,5.716612
+600,Sicilian Defense: Closed,66,0.032206,0.000133,0.361892,0.055075,4.305461
+600,"Sicilian Defense: Closed, Traditional",34,0.030514,0.000255,0.3396,0.063751,5.577312
+600,Sicilian Defense: Franco-Sicilian Variation,20,0.030839,0.000103,0.384879,0.075675,4.200268
+600,Sicilian Defense: Grand Prix Attack,35,0.035311,0.000121,0.377194,0.063665,3.770949
+600,Sicilian Defense: Löwenthal Variation,10,0.031012,0.000283,0.501852,0.056042,6.298682
+600,Sicilian Defense: Modern Variations,35,0.031125,0.000185,0.311342,0.025573,5.091773
+600,"Sicilian Defense: Modern Variations, Anti-Qxd4 Move Order",17,0.030978,0.000167,0.38408,0.073125,5.137005
+600,"Sicilian Defense: Modern Variations, Anti-Qxd4 Move Order Accepted",10,0.033501,0.000174,0.391511,0.061378,4.821007
+600,"Sicilian Defense: Modern Variations, Main Line",10,0.035138,7.8e-05,0.567433,0.085864,3.379899
+600,Sicilian Defense: Old Sicilian,35,0.030713,0.00012,0.32401,0.04858,4.694433
+600,Sicilian Defense: Open,17,0.035134,0.000162,0.45994,0.088346,3.401915
+600,Sicilian Defense: Taimanov Variation,9,0.037181,5.8e-05,0.45596,0.071935,3.312366
+700,Bishop's Opening,35,0.040976,0.001649,0.352661,0.054265,5.807675
+700,Bishop's Opening: Berlin Defense,28,0.027562,0.000391,0.308934,0.012975,7.120664
+700,Bogo-Indian Defense: Exchange Variation,18,0.150889,0.072677,0.347724,0.024347,2.764008
+700,Bogo-Indian Defense: Nimzowitsch Variation,18,0.056259,0.002527,0.301482,0.012573,3.08516
+700,Catalan Opening: Closed,24,0.03952,0.000133,0.379432,0.059839,3.26517
+700,Grünfeld Defense,10,0.038095,5.6e-05,0.346147,0.059713,3.286025
+700,Grünfeld Defense: Exchange Variation,10,0.038296,5.3e-05,0.436404,0.082957,3.279675
+700,Grünfeld Defense: Three Knights Variation,30,0.033676,7.8e-05,0.330739,0.060153,3.873484
+700,"Grünfeld Defense: Three Knights Variation, Petrosian System",21,0.036406,4.6e-05,0.377614,0.068151,3.32913
+700,Indian Defense: Anti-Nimzo-Indian,22,0.093977,0.021837,0.274575,0.03745,2.902127
+700,Indian Defense: London System,35,0.031396,6.7e-05,0.350224,0.05641,3.876515
+700,Italian Game: Classical Variation,18,0.030958,0.000163,0.364866,0.031454,5.046788
+700,"Italian Game: Classical Variation, Albin Gambit",16,0.033813,0.000117,0.380332,0.028566,4.280143
+700,"Italian Game: Classical Variation, Center Attack",16,0.032989,0.000119,0.428088,0.023157,4.305946
+700,"Italian Game: Classical Variation, Giuoco Pianissimo",35,0.032122,9.5e-05,0.346306,0.017855,4.25161
+700,"Italian Game: Giuoco Pianissimo, Normal",27,0.032315,0.000118,0.349352,0.016064,4.484218
+700,Italian Game: Giuoco Piano,22,0.033429,0.000187,0.369313,0.020547,4.699915
+700,"Italian Game: Two Knights Defense, Knight Attack, Normal Variation",25,0.034555,3.8e-05,0.444001,0.080385,3.379803
+700,"Italian Game: Two Knights Defense, Modern Bishop's Opening",31,0.029843,0.000166,0.299176,0.015923,5.328724
+700,"Italian Game: Two Knights Defense, Traxler Counterattack, Bishop Sacrifice Line",22,0.034944,4.2e-05,0.323835,0.020155,3.369777
+700,"Italian Game: Two Knights Defense, Traxler Counterattack, Knight Sacrifice Line",22,0.034944,4.2e-05,0.372124,0.029836,3.369777
+700,King's Indian Defense,10,0.037942,6.3e-05,0.405792,0.040393,3.293209
+700,King's Indian Defense: Fianchetto Variation,22,0.036681,4e-05,0.441064,0.108347,3.31935
+700,"King's Indian Defense: Fianchetto Variation, Delayed Fianchetto",16,0.037987,4.6e-05,0.291299,0.054513,3.285815
+700,King's Indian Defense: Four Pawns Attack,9,0.038745,6.8e-05,0.459675,0.05215,3.274726
+700,King's Indian Defense: Normal Variation,10,0.03237,0.000302,0.400227,0.041976,6.262502
+700,"King's Indian Defense: Normal Variation, King's Knight Variation",18,0.037432,4.6e-05,0.414267,0.048594,3.301019
+700,"King's Indian Defense: Normal Variation, Rare Defenses",24,0.035038,9.8e-05,0.43958,0.049356,3.954979
+700,King's Indian Defense: Smyslov Variation,21,0.037114,4.4e-05,0.407008,0.054143,3.309016
+700,London System,29,0.031318,0.000116,0.341028,0.051066,4.446017
+700,"London System, with Bd3",13,0.037633,5.2e-05,0.399965,0.07114,3.297938
+700,"London System, with Be2",13,0.037633,5.2e-05,0.383035,0.07741,3.297938
+700,Neo-Grünfeld Defense: with Nf3,24,0.03568,3.9e-05,0.320509,0.051207,3.346713
+700,Nimzo-Indian Defense,21,0.047819,0.002693,0.272688,0.013207,5.293904
+700,Nimzo-Indian Defense: Classical Variation,10,0.037643,5.5e-05,0.336314,0.019322,3.297618
+700,"Nimzo-Indian Defense: Classical Variation, Berlin Variation",10,0.037453,5.7e-05,0.339277,0.020024,3.303772
+700,Nimzo-Indian Defense: Three Knights Variation,30,0.043299,0.001943,0.326212,0.067083,4.735969
+700,Petrov's Defense: Italian Variation,20,0.035142,0.000191,0.314097,0.012347,3.400702
+700,Philidor Defense,51,0.029105,0.00014,0.3688,0.063277,5.189304
+700,Philidor Defense: Exchange Variation,20,0.030412,6.4e-05,0.372259,0.040539,3.525556
+700,Queen's Gambit Accepted,33,0.030559,9e-05,0.340622,0.036558,4.346624
+700,Queen's Gambit Accepted: Old Variation,34,0.032445,2.8e-05,0.377624,0.054529,3.439727
+700,Queen's Gambit Declined,38,0.048406,0.007197,0.336386,0.029532,4.06568
+700,Queen's Gambit Declined: Harrwitz Attack,34,0.036197,7.5e-05,0.334187,0.015322,3.342932
+700,Queen's Gambit Declined: Modern Variation,19,0.035841,4.9e-05,0.329033,0.019593,3.345406
+700,Queen's Gambit Declined: Ragozin Defense,39,0.035063,3e-05,0.329671,0.017334,3.36097
+700,Queen's Gambit Declined: Three Knights Variation,34,0.036197,7.5e-05,0.359526,0.014769,3.342932
+700,"Queen's Gambit Declined: Three Knights, Vienna Variation",9,0.036464,5.7e-05,0.303791,0.005946,3.330696
+700,"Queen's Gambit Declined: Vienna Variation, Quiet Variation",14,0.035567,3.8e-05,0.263161,0.008344,3.349048
+700,Queen's Pawn Game: Accelerated London System,98,0.028149,0.000107,0.320097,0.018738,4.997087
+700,Queen's Pawn Game: London System,35,0.030141,8.3e-05,0.323223,0.028665,4.310351
+700,"Ruy Lopez: Berlin Defense, Improved Steinitz Defense",10,0.033916,0.00016,0.373112,0.028875,4.802963
+700,Ruy Lopez: Exchange Variation,9,0.042346,0.000188,0.467343,0.036089,3.203437
+700,"Ruy Lopez: Exchange Variation, Lutikov Variation",10,0.038419,3.5e-05,0.401795,0.027337,3.270373
+700,"Ruy Lopez: Exchange Variation, Normal Variation",9,0.038073,3.8e-05,0.473418,0.034082,3.280453
+700,Ruy Lopez: Morphy Defense,9,0.037113,4.3e-05,0.497945,0.022661,3.307718
+700,"Ruy Lopez: Morphy Defense, Anderssen Variation",9,0.037113,4.3e-05,0.453968,0.026772,3.307718
+700,"Ruy Lopez: Morphy Defense, Caro Variation",10,0.037391,3.9e-05,0.460445,0.07087,3.298981
+700,Ruy Lopez: Steinitz Defense,17,0.085586,0.041205,0.371974,0.05218,4.001647
+700,Semi-Slav Defense,14,0.03237,0.000123,0.367238,0.0222,4.44714
+700,Semi-Slav Defense: Accelerated Move Order,17,0.031959,0.000103,0.33232,0.02061,4.281906
+700,Semi-Slav Defense: Main Line,17,0.032014,0.000102,0.323265,0.020431,4.279222
+700,Sicilian Defense,10,0.034053,0.000179,0.479263,0.074454,4.806258
+700,Sicilian Defense: Chekhover Variation,13,0.029153,0.000294,0.409734,0.052242,6.781695
+700,Sicilian Defense: Closed,66,0.031672,0.000135,0.361892,0.055075,4.322
+700,"Sicilian Defense: Closed, Traditional",34,0.032608,0.000111,0.3396,0.063751,3.860346
+700,Sicilian Defense: Franco-Sicilian Variation,20,0.027285,0.000185,0.384879,0.075675,5.709032
+700,Sicilian Defense: Grand Prix Attack,35,0.034665,5.2e-05,0.377194,0.063665,3.379778
+700,Sicilian Defense: Löwenthal Variation,10,0.03661,7.2e-05,0.501852,0.056042,3.335122
+700,Sicilian Defense: Modern Variations,35,0.03237,7.6e-05,0.311342,0.025573,3.849428
+700,"Sicilian Defense: Modern Variations, Anti-Qxd4 Move Order",17,0.0319,6.1e-05,0.38408,0.073125,3.470943
+700,"Sicilian Defense: Modern Variations, Anti-Qxd4 Move Order Accepted",10,0.036419,0.000243,0.391511,0.061378,4.756882
+700,"Sicilian Defense: Modern Variations, Main Line",10,0.035243,8.2e-05,0.567433,0.085864,3.378503
+700,Sicilian Defense: Old Sicilian,35,0.030632,0.00013,0.32401,0.04858,4.701638
+700,Sicilian Defense: Open,17,0.034929,0.000221,0.45994,0.088346,4.228257
+700,Sicilian Defense: Taimanov Variation,9,0.036651,6.4e-05,0.45596,0.071935,3.329493
+800,Bishop's Opening,35,0.033177,0.000321,0.352661,0.054265,5.064129
+800,Bishop's Opening: Berlin Defense,28,0.025431,0.000259,0.308934,0.012975,7.160805
+800,Bogo-Indian Defense: Exchange Variation,18,0.147784,0.071441,0.347724,0.024347,2.711276
+800,Bogo-Indian Defense: Nimzowitsch Variation,18,0.048104,0.000526,0.301482,0.012573,3.109445
+800,Catalan Opening: Closed,24,0.037217,9.2e-05,0.379432,0.059839,3.317188
+800,Grünfeld Defense,10,0.037701,5.6e-05,0.346147,0.059713,3.296729
+800,Grünfeld Defense: Exchange Variation,10,0.037499,5.8e-05,0.436404,0.082957,3.303078
+800,Grünfeld Defense: Three Knights Variation,30,0.033347,7.4e-05,0.330739,0.060153,3.882136
+800,"Grünfeld Defense: Three Knights Variation, Petrosian System",21,0.035936,4.3e-05,0.377614,0.068151,3.34149
+800,Indian Defense: Anti-Nimzo-Indian,22,0.089627,0.02221,0.274575,0.03745,2.99665
+800,Indian Defense: London System,35,0.032249,0.000136,0.350224,0.05641,4.259021
+800,Italian Game: Classical Variation,18,0.02524,0.000279,0.364866,0.031454,7.551349
+800,"Italian Game: Classical Variation, Albin Gambit",16,0.031057,0.000173,0.380332,0.028566,5.235985
+800,"Italian Game: Classical Variation, Center Attack",16,0.028395,0.000225,0.428088,0.023157,6.192683
+800,"Italian Game: Classical Variation, Giuoco Pianissimo",35,0.031881,9.5e-05,0.346306,0.017855,4.259428
+800,"Italian Game: Giuoco Pianissimo, Normal",27,0.032671,7.7e-05,0.349352,0.016064,3.954506
+800,Italian Game: Giuoco Piano,22,0.031425,0.000228,0.369313,0.020547,5.395073
+800,"Italian Game: Two Knights Defense, Knight Attack, Normal Variation",25,0.034087,3.6e-05,0.444001,0.080385,3.392723
+800,"Italian Game: Two Knights Defense, Modern Bishop's Opening",31,0.026757,0.000236,0.299176,0.015923,6.774857
+800,"Italian Game: Two Knights Defense, Traxler Counterattack, Bishop Sacrifice Line",22,0.034604,3.8e-05,0.323835,0.020155,3.377859
+800,"Italian Game: Two Knights Defense, Traxler Counterattack, Knight Sacrifice Line",22,0.034604,3.8e-05,0.372124,0.029836,3.377859
+800,King's Indian Defense,10,0.037637,6.1e-05,0.405792,0.040393,3.300934
+800,King's Indian Defense: Fianchetto Variation,22,0.036236,4e-05,0.441064,0.108347,3.331866
+800,"King's Indian Defense: Fianchetto Variation, Delayed Fianchetto",16,0.03753,4.4e-05,0.291299,0.054513,3.297568
+800,King's Indian Defense: Four Pawns Attack,9,0.038406,6.7e-05,0.459675,0.05215,3.283309
+800,King's Indian Defense: Normal Variation,10,0.037065,7.7e-05,0.400227,0.041976,3.323866
+800,"King's Indian Defense: Normal Variation, King's Knight Variation",18,0.036263,4.9e-05,0.414267,0.048594,3.334845
+800,"King's Indian Defense: Normal Variation, Rare Defenses",24,0.034609,9.4e-05,0.43958,0.049356,3.966044
+800,King's Indian Defense: Smyslov Variation,21,0.036625,4.1e-05,0.407008,0.054143,3.321661
+800,London System,29,0.033212,7.9e-05,0.341028,0.051066,3.904412
+800,"London System, with Bd3",13,0.036736,5.9e-05,0.399965,0.07114,3.325239
+800,"London System, with Be2",13,0.036736,5.9e-05,0.383035,0.07741,3.325239
+800,Neo-Grünfeld Defense: with Nf3,24,0.035395,3.5e-05,0.320509,0.051207,3.353557
+800,Nimzo-Indian Defense,21,0.040318,0.000671,0.272688,0.013207,4.647676
+800,Nimzo-Indian Defense: Classical Variation,10,0.028042,0.000372,0.336314,0.019322,7.788978
+800,"Nimzo-Indian Defense: Classical Variation, Berlin Variation",10,0.037436,5.2e-05,0.339277,0.020024,3.302195
+800,Nimzo-Indian Defense: Three Knights Variation,30,0.052334,0.003214,0.326212,0.067083,4.148874
+800,Petrov's Defense: Italian Variation,20,0.035106,0.00019,0.314097,0.012347,4.092586
+800,Philidor Defense,51,0.030894,8.8e-05,0.3688,0.063277,4.311704
+800,Philidor Defense: Exchange Variation,20,0.027768,0.000192,0.372259,0.040539,5.69692
+800,Queen's Gambit Accepted,33,0.030402,9e-05,0.340622,0.036558,4.351978
+800,Queen's Gambit Accepted: Old Variation,34,0.033894,3.7e-05,0.377624,0.054529,3.398531
+800,Queen's Gambit Declined,38,0.049538,0.007198,0.336386,0.029532,4.041015
+800,Queen's Gambit Declined: Harrwitz Attack,34,0.036581,0.000146,0.334187,0.015322,3.755447
+800,Queen's Gambit Declined: Modern Variation,19,0.035791,4.7e-05,0.329033,0.019593,3.346059
+800,Queen's Gambit Declined: Ragozin Defense,39,0.036752,0.000173,0.329671,0.017334,3.338419
+800,Queen's Gambit Declined: Three Knights Variation,34,0.036581,0.000146,0.359526,0.014769,3.755447
+800,"Queen's Gambit Declined: Three Knights, Vienna Variation",9,0.037037,5.2e-05,0.303791,0.005946,3.312932
+800,"Queen's Gambit Declined: Vienna Variation, Quiet Variation",14,0.035214,4.3e-05,0.263161,0.008344,3.361371
+800,Queen's Pawn Game: Accelerated London System,98,0.030197,9.2e-05,0.320097,0.018738,4.228002
+800,Queen's Pawn Game: London System,35,0.030351,8.2e-05,0.323223,0.028665,4.303012
+800,"Ruy Lopez: Berlin Defense, Improved Steinitz Defense",10,0.037189,4.3e-05,0.373112,0.028875,3.305622
+800,Ruy Lopez: Exchange Variation,9,0.046203,0.00022,0.467343,0.036089,3.120876
+800,"Ruy Lopez: Exchange Variation, Lutikov Variation",10,0.045429,0.000203,0.401795,0.027337,3.134598
+800,"Ruy Lopez: Exchange Variation, Normal Variation",9,0.04193,0.000103,0.473418,0.034082,3.197892
+800,Ruy Lopez: Morphy Defense,9,0.040865,0.000117,0.497945,0.022661,3.228576
+800,"Ruy Lopez: Morphy Defense, Anderssen Variation",9,0.040865,0.000117,0.453968,0.026772,3.228576
+800,"Ruy Lopez: Morphy Defense, Caro Variation",10,0.040482,0.000107,0.460445,0.07087,3.235302
+800,Ruy Lopez: Steinitz Defense,17,0.087244,0.040966,0.371974,0.05218,3.127694
+800,Semi-Slav Defense,14,0.034828,4.2e-05,0.367238,0.0222,3.371993
+800,Semi-Slav Defense: Accelerated Move Order,17,0.032795,0.000101,0.33232,0.02061,4.25484
+800,Semi-Slav Defense: Main Line,17,0.034537,3.6e-05,0.323265,0.020431,3.378542
+800,Sicilian Defense,10,0.036104,8.1e-05,0.479263,0.074454,3.352771
+800,Sicilian Defense: Chekhover Variation,13,0.033296,0.000105,0.409734,0.052242,3.451963
+800,Sicilian Defense: Closed,66,0.030444,0.000121,0.361892,0.055075,4.564755
+800,"Sicilian Defense: Closed, Traditional",34,0.032143,0.000233,0.3396,0.063751,5.117715
+800,Sicilian Defense: Franco-Sicilian Variation,20,0.029495,0.000153,0.384879,0.075675,4.941919
+800,Sicilian Defense: Grand Prix Attack,35,0.035315,8.9e-05,0.377194,0.063665,3.369819
+800,Sicilian Defense: Löwenthal Variation,10,0.036981,7.7e-05,0.501852,0.056042,3.326606
+800,Sicilian Defense: Modern Variations,35,0.031224,0.000108,0.311342,0.025573,4.286065
+800,"Sicilian Defense: Modern Variations, Anti-Qxd4 Move Order",17,0.032917,6.3e-05,0.38408,0.073125,3.439411
+800,"Sicilian Defense: Modern Variations, Anti-Qxd4 Move Order Accepted",10,0.039082,0.000124,0.391511,0.061378,3.281556
+800,"Sicilian Defense: Modern Variations, Main Line",10,0.036104,8.1e-05,0.567433,0.085864,3.352771
+800,Sicilian Defense: Old Sicilian,35,0.031862,0.000121,0.32401,0.04858,4.267283
+800,Sicilian Defense: Open,17,0.034447,0.000282,0.45994,0.088346,5.063103
+800,Sicilian Defense: Taimanov Variation,9,0.037982,5.8e-05,0.45596,0.071935,3.289847
+900,Bishop's Opening,35,0.033567,0.000358,0.352661,0.054265,5.061853
+900,Bishop's Opening: Berlin Defense,28,0.028548,0.000149,0.308934,0.012975,5.070024
+900,Bogo-Indian Defense: Exchange Variation,18,0.095959,0.008553,0.347724,0.024347,2.737641
+900,Bogo-Indian Defense: Nimzowitsch Variation,18,0.046559,0.000557,0.301482,0.012573,3.151573
+900,Catalan Opening: Closed,24,0.037356,9.3e-05,0.379432,0.059839,3.31379
+900,Grünfeld Defense,10,0.038174,5.9e-05,0.346147,0.059713,3.28495
+900,Grünfeld Defense: Exchange Variation,10,0.037973,6.1e-05,0.436404,0.082957,3.2913
+900,Grünfeld Defense: Three Knights Variation,30,0.033484,7.7e-05,0.330739,0.060153,3.879047
+900,"Grünfeld Defense: Three Knights Variation, Petrosian System",21,0.036037,4.7e-05,0.377614,0.068151,3.340102
+900,Indian Defense: Anti-Nimzo-Indian,22,0.080134,0.013268,0.274575,0.03745,2.966882
+900,Indian Defense: London System,35,0.029902,9.3e-05,0.350224,0.05641,4.32344
+900,Italian Game: Classical Variation,18,0.030279,0.000228,0.364866,0.031454,5.848307
+900,"Italian Game: Classical Variation, Albin Gambit",16,0.0301,0.000247,0.380332,0.028566,6.143762
+900,"Italian Game: Classical Variation, Center Attack",16,0.032225,0.000196,0.428088,0.023157,5.207656
+900,"Italian Game: Classical Variation, Giuoco Pianissimo",35,0.031722,0.000131,0.346306,0.017855,4.666039
+900,"Italian Game: Giuoco Pianissimo, Normal",27,0.032337,0.000123,0.349352,0.016064,4.485288
+900,Italian Game: Giuoco Piano,22,0.027952,0.000259,0.369313,0.020547,6.761198
+900,"Italian Game: Two Knights Defense, Knight Attack, Normal Variation",25,0.034783,4.3e-05,0.444001,0.080385,3.374596
+900,"Italian Game: Two Knights Defense, Modern Bishop's Opening",31,0.032409,7.9e-05,0.299176,0.015923,3.899033
+900,"Italian Game: Two Knights Defense, Traxler Counterattack, Bishop Sacrifice Line",22,0.035171,4.7e-05,0.323835,0.020155,3.365072
+900,"Italian Game: Two Knights Defense, Traxler Counterattack, Knight Sacrifice Line",22,0.035171,4.7e-05,0.372124,0.029836,3.365072
+900,King's Indian Defense,10,0.039198,4.9e-05,0.405792,0.040393,3.254622
+900,King's Indian Defense: Fianchetto Variation,22,0.036369,4.1e-05,0.441064,0.108347,3.328447
+900,"King's Indian Defense: Fianchetto Variation, Delayed Fianchetto",16,0.037713,4.5e-05,0.291299,0.054513,3.292867
+900,King's Indian Defense: Four Pawns Attack,9,0.036049,0.00021,0.459675,0.05215,4.910508
+900,King's Indian Defense: Normal Variation,10,0.037444,8.1e-05,0.400227,0.041976,3.315165
+900,"King's Indian Defense: Normal Variation, King's Knight Variation",18,0.036426,5e-05,0.414267,0.048594,3.330666
+900,"King's Indian Defense: Normal Variation, Rare Defenses",24,0.036392,4.2e-05,0.43958,0.049356,3.328348
+900,King's Indian Defense: Smyslov Variation,21,0.036675,4.5e-05,0.407008,0.054143,3.321832
+900,London System,29,0.032433,4.8e-05,0.341028,0.051066,3.448868
+900,"London System, with Bd3",13,0.036671,6e-05,0.399965,0.07114,3.327469
+900,"London System, with Be2",13,0.036671,6e-05,0.383035,0.07741,3.327469
+900,Neo-Grünfeld Defense: with Nf3,24,0.035572,3.6e-05,0.320509,0.051207,3.348891
+900,Nimzo-Indian Defense,21,0.040573,0.000669,0.272688,0.013207,4.640766
+900,Nimzo-Indian Defense: Classical Variation,10,0.037438,5.7e-05,0.336314,0.019322,3.304002
+900,"Nimzo-Indian Defense: Classical Variation, Berlin Variation",10,0.037438,5.7e-05,0.339277,0.020024,3.304002
+900,Nimzo-Indian Defense: Three Knights Variation,30,0.052513,0.003209,0.326212,0.067083,4.144037
+900,Petrov's Defense: Italian Variation,20,0.038022,0.000264,0.314097,0.012347,3.340247
+900,Philidor Defense,51,0.031084,9.8e-05,0.3688,0.063277,4.308412
+900,Philidor Defense: Exchange Variation,20,0.028061,0.000149,0.372259,0.040539,4.992554
+900,Queen's Gambit Accepted,33,0.030327,6.3e-05,0.340622,0.036558,3.932974
+900,Queen's Gambit Accepted: Old Variation,34,0.033051,4e-05,0.377624,0.054529,3.42528
+900,Queen's Gambit Declined,38,0.049578,0.00713,0.336386,0.029532,3.302302
+900,Queen's Gambit Declined: Harrwitz Attack,34,0.037011,8.9e-05,0.334187,0.015322,3.32367
+900,Queen's Gambit Declined: Modern Variation,19,0.035899,4.9e-05,0.329033,0.019593,3.343665
+900,Queen's Gambit Declined: Ragozin Defense,39,0.034807,2.9e-05,0.329671,0.017334,3.368173
+900,Queen's Gambit Declined: Three Knights Variation,34,0.037011,8.9e-05,0.359526,0.014769,3.32367
+900,"Queen's Gambit Declined: Three Knights, Vienna Variation",9,0.037149,5.1e-05,0.303791,0.005946,3.309404
+900,"Queen's Gambit Declined: Vienna Variation, Quiet Variation",14,0.034444,4.8e-05,0.263161,0.008344,3.385899
+900,Queen's Pawn Game: Accelerated London System,98,0.028172,9e-05,0.320097,0.018738,4.713074
+900,Queen's Pawn Game: London System,35,0.031035,5.7e-05,0.323223,0.028665,3.883601
+900,"Ruy Lopez: Berlin Defense, Improved Steinitz Defense",10,0.037527,4.1e-05,0.373112,0.028875,3.295562
+900,Ruy Lopez: Exchange Variation,9,0.04258,0.00019,0.467343,0.036089,3.198442
+900,"Ruy Lopez: Exchange Variation, Lutikov Variation",10,0.042168,0.000173,0.401795,0.027337,3.204408
+900,"Ruy Lopez: Exchange Variation, Normal Variation",9,0.038307,4.3e-05,0.473418,0.034082,3.275459
+900,Ruy Lopez: Morphy Defense,9,0.037359,4.8e-05,0.497945,0.022661,3.30257
+900,"Ruy Lopez: Morphy Defense, Anderssen Variation",9,0.037359,4.8e-05,0.453968,0.026772,3.30257
+900,"Ruy Lopez: Morphy Defense, Caro Variation",10,0.037744,4.3e-05,0.460445,0.07087,3.290712
+900,Ruy Lopez: Steinitz Defense,17,0.087126,0.040976,0.371974,0.05218,3.130379
+900,Semi-Slav Defense,14,0.034633,4.4e-05,0.367238,0.0222,3.378464
+900,Semi-Slav Defense: Accelerated Move Order,17,0.032907,0.000101,0.33232,0.02061,4.25122
+900,Semi-Slav Defense: Main Line,17,0.033937,3.9e-05,0.323265,0.020431,3.397269
+900,Sicilian Defense,10,0.036014,7.7e-05,0.479263,0.074454,3.353937
+900,Sicilian Defense: Chekhover Variation,13,0.033227,0.000102,0.409734,0.052242,3.452861
+900,Sicilian Defense: Closed,66,0.031385,7.9e-05,0.361892,0.055075,3.901412
+900,"Sicilian Defense: Closed, Traditional",34,0.030954,0.000173,0.3396,0.063751,4.734941
+900,Sicilian Defense: Franco-Sicilian Variation,20,0.029789,0.000108,0.384879,0.075675,4.236693
+900,Sicilian Defense: Grand Prix Attack,35,0.03352,0.000102,0.377194,0.063665,3.818007
+900,Sicilian Defense: Löwenthal Variation,10,0.036912,7.4e-05,0.501852,0.056042,3.327487
+900,Sicilian Defense: Modern Variations,35,0.033116,8.2e-05,0.311342,0.025573,3.828144
+900,"Sicilian Defense: Modern Variations, Anti-Qxd4 Move Order",17,0.031132,0.000117,0.38408,0.073125,4.3145
+900,"Sicilian Defense: Modern Variations, Anti-Qxd4 Move Order Accepted",10,0.038485,0.000127,0.391511,0.061378,3.298628
+900,"Sicilian Defense: Modern Variations, Main Line",10,0.036014,7.7e-05,0.567433,0.085864,3.353937
+900,Sicilian Defense: Old Sicilian,35,0.031875,0.000138,0.32401,0.04858,4.664524
+900,Sicilian Defense: Open,17,0.034026,0.000281,0.45994,0.088346,5.075202
+900,Sicilian Defense: Taimanov Variation,9,0.037326,6.5e-05,0.45596,0.071935,3.310588
+1000,Bishop's Opening,35,0.034948,0.000269,0.352661,0.054265,4.214943
+1000,Bishop's Opening: Berlin Defense,28,0.03024,8.5e-05,0.308934,0.012975,4.018844
+1000,Bogo-Indian Defense: Exchange Variation,18,0.151262,0.072684,0.347724,0.024347,2.75939
+1000,Bogo-Indian Defense: Nimzowitsch Variation,18,0.056632,0.002604,0.301482,0.012573,3.080542
+1000,Catalan Opening: Closed,24,0.03588,4.3e-05,0.379432,0.059839,3.342482
+1000,Grünfeld Defense,10,0.038224,5.5e-05,0.346147,0.059713,3.282418
+1000,Grünfeld Defense: Exchange Variation,10,0.038022,5.8e-05,0.436404,0.082957,3.288768
+1000,Grünfeld Defense: Three Knights Variation,30,0.034579,3.9e-05,0.330739,0.060153,3.379195
+1000,"Grünfeld Defense: Three Knights Variation, Petrosian System",21,0.036435,4.4e-05,0.377614,0.068151,3.327808
+1000,Indian Defense: Anti-Nimzo-Indian,22,0.078091,0.01333,0.274575,0.03745,3.006688
+1000,Indian Defense: London System,35,0.032894,7.7e-05,0.350224,0.05641,3.442019
+1000,Italian Game: Classical Variation,18,0.033726,3.9e-05,0.364866,0.031454,3.403815
+1000,"Italian Game: Classical Variation, Albin Gambit",16,0.035001,4.1e-05,0.380332,0.028566,3.367043
+1000,"Italian Game: Classical Variation, Center Attack",16,0.032427,0.00011,0.428088,0.023157,4.319392
+1000,"Italian Game: Classical Variation, Giuoco Pianissimo",35,0.031434,8.7e-05,0.346306,0.017855,4.26983
+1000,"Italian Game: Giuoco Pianissimo, Normal",27,0.031295,0.000108,0.349352,0.016064,4.512199
+1000,Italian Game: Giuoco Piano,22,0.035557,8e-05,0.369313,0.020547,3.361426
+1000,"Italian Game: Two Knights Defense, Knight Attack, Normal Variation",25,0.033178,3.5e-05,0.444001,0.080385,3.42005
+1000,"Italian Game: Two Knights Defense, Modern Bishop's Opening",31,0.032351,3.4e-05,0.299176,0.015923,3.445598
+1000,"Italian Game: Two Knights Defense, Traxler Counterattack, Bishop Sacrifice Line",22,0.033919,3.6e-05,0.323835,0.020155,3.397659
+1000,"Italian Game: Two Knights Defense, Traxler Counterattack, Knight Sacrifice Line",22,0.033919,3.6e-05,0.372124,0.029836,3.397659
+1000,King's Indian Defense,10,0.038065,6.2e-05,0.405792,0.040393,3.2897
+1000,King's Indian Defense: Fianchetto Variation,22,0.03679,4.1e-05,0.441064,0.108347,3.31691
+1000,"King's Indian Defense: Fianchetto Variation, Delayed Fianchetto",16,0.038203,4.3e-05,0.291299,0.054513,3.279363
+1000,King's Indian Defense: Four Pawns Attack,9,0.038881,6.7e-05,0.459675,0.05215,3.270827
+1000,King's Indian Defense: Normal Variation,10,0.037493,7.8e-05,0.400227,0.041976,3.312633
+1000,"King's Indian Defense: Normal Variation, King's Knight Variation",18,0.036862,5.1e-05,0.414267,0.048594,3.318662
+1000,"King's Indian Defense: Normal Variation, Rare Defenses",24,0.033913,0.000145,0.43958,0.049356,4.57193
+1000,King's Indian Defense: Smyslov Variation,21,0.037316,4e-05,0.407008,0.054143,3.301962
+1000,London System,29,0.032552,0.000119,0.341028,0.051066,4.408209
+1000,"London System, with Bd3",13,0.037095,6.4e-05,0.399965,0.07114,3.31746
+1000,"London System, with Be2",13,0.037095,6.4e-05,0.383035,0.07741,3.31746
+1000,Neo-Grünfeld Defense: with Nf3,24,0.035834,3.7e-05,0.320509,0.051207,3.341542
+1000,Nimzo-Indian Defense,21,0.052211,0.002331,0.272688,0.013207,3.155187
+1000,Nimzo-Indian Defense: Classical Variation,10,0.031632,0.000293,0.336314,0.019322,6.281691
+1000,"Nimzo-Indian Defense: Classical Variation, Berlin Variation",10,0.037882,5.3e-05,0.339277,0.020024,3.290702
+1000,Nimzo-Indian Defense: Three Knights Variation,30,0.045292,0.001743,0.326212,0.067083,3.269351
+1000,Petrov's Defense: Italian Variation,20,0.034845,0.000198,0.314097,0.012347,3.411938
+1000,Philidor Defense,51,0.03181,5e-05,0.3688,0.063277,3.73464
+1000,Philidor Defense: Exchange Variation,20,0.027505,0.000145,0.372259,0.040539,5.010761
+1000,Queen's Gambit Accepted,33,0.031105,3.4e-05,0.340622,0.036558,3.485339
+1000,Queen's Gambit Accepted: Old Variation,34,0.031044,3.1e-05,0.377624,0.054529,3.485892
+1000,Queen's Gambit Declined,38,0.041922,0.001517,0.336386,0.029532,3.333568
+1000,Queen's Gambit Declined: Harrwitz Attack,34,0.034612,3.5e-05,0.334187,0.015322,3.376323
+1000,Queen's Gambit Declined: Modern Variation,19,0.036032,4.9e-05,0.329033,0.019593,3.339919
+1000,Queen's Gambit Declined: Ragozin Defense,39,0.035036,2.8e-05,0.329671,0.017334,3.361317
+1000,Queen's Gambit Declined: Three Knights Variation,34,0.034612,3.5e-05,0.359526,0.014769,3.376323
+1000,"Queen's Gambit Declined: Three Knights, Vienna Variation",9,0.036645,5.8e-05,0.303791,0.005946,3.32616
+1000,"Queen's Gambit Declined: Vienna Variation, Quiet Variation",14,0.034682,4.7e-05,0.263161,0.008344,3.378773
+1000,Queen's Pawn Game: Accelerated London System,98,0.029252,6.8e-05,0.320097,0.018738,4.113261
+1000,Queen's Pawn Game: London System,35,0.032468,8.9e-05,0.323223,0.028665,3.847991
+1000,"Ruy Lopez: Berlin Defense, Improved Steinitz Defense",10,0.037551,4.2e-05,0.373112,0.028875,3.295204
+1000,Ruy Lopez: Exchange Variation,9,0.04209,0.000102,0.467343,0.036089,3.193687
+1000,"Ruy Lopez: Exchange Variation, Lutikov Variation",10,0.045419,0.000203,0.401795,0.027337,3.134735
+1000,"Ruy Lopez: Exchange Variation, Normal Variation",9,0.04209,0.000102,0.473418,0.034082,3.193687
+1000,Ruy Lopez: Morphy Defense,9,0.041117,0.000113,0.497945,0.022661,3.221116
+1000,"Ruy Lopez: Morphy Defense, Anderssen Variation",9,0.041117,0.000113,0.453968,0.026772,3.221116
+1000,"Ruy Lopez: Morphy Defense, Caro Variation",10,0.040994,0.000102,0.460445,0.07087,3.22104
+1000,Ruy Lopez: Steinitz Defense,17,0.085437,0.041224,0.371974,0.05218,4.006931
+1000,Semi-Slav Defense,14,0.033863,5e-05,0.367238,0.0222,3.404161
+1000,Semi-Slav Defense: Accelerated Move Order,17,0.03323,4.5e-05,0.33232,0.02061,3.421406
+1000,Semi-Slav Defense: Main Line,17,0.033304,4.3e-05,0.323265,0.020431,3.418431
+1000,Sicilian Defense,10,0.035499,8.4e-05,0.479263,0.074454,3.371511
+1000,Sicilian Defense: Chekhover Variation,13,0.032736,0.000104,0.409734,0.052242,3.469078
+1000,Sicilian Defense: Closed,66,0.032461,4e-05,0.361892,0.055075,3.442464
+1000,"Sicilian Defense: Closed, Traditional",34,0.030542,9.3e-05,0.3396,0.063751,4.324405
+1000,Sicilian Defense: Franco-Sicilian Variation,20,0.031191,6.2e-05,0.384879,0.075675,3.494662
+1000,Sicilian Defense: Grand Prix Attack,35,0.034376,6.7e-05,0.377194,0.063665,3.390795
+1000,Sicilian Defense: Löwenthal Variation,10,0.037168,7.4e-05,0.501852,0.056042,3.320341
+1000,Sicilian Defense: Modern Variations,35,0.030171,9.1e-05,0.311342,0.025573,4.31371
+1000,"Sicilian Defense: Modern Variations, Anti-Qxd4 Move Order",17,0.034892,0.000122,0.38408,0.073125,3.396436
+1000,"Sicilian Defense: Modern Variations, Anti-Qxd4 Move Order Accepted",10,0.035419,7.8e-05,0.391511,0.061378,3.370043
+1000,"Sicilian Defense: Modern Variations, Main Line",10,0.035499,8.4e-05,0.567433,0.085864,3.371511
+1000,Sicilian Defense: Old Sicilian,35,0.031233,6.4e-05,0.32401,0.04858,3.880794
+1000,Sicilian Defense: Open,17,0.032285,0.000136,0.45994,0.088346,4.287694
+1000,Sicilian Defense: Taimanov Variation,9,0.037035,6.9e-05,0.45596,0.071935,3.320429
