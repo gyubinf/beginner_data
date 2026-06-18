@@ -5,6 +5,7 @@
 3. results(blunder): plot_blunder.py
 
 All you need to do is modify the CSV path before running.
+Although the code was originally written with dates, you just need to enter the Data Name to run it
 
 | data name  |
 | :--- | 
